@@ -108,7 +108,7 @@
 
         - 데이터를 기록하는 곳
 
-        ![alt text](imagES/image_4.png)
+        ![alt text](images/image_4.png)
 
     2. `Field(aka Column, Attribute)`
 
