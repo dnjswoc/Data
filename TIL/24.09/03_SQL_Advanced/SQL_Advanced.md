@@ -26,6 +26,8 @@
 - 관계의 필요성
     - 커뮤니티 게시판에 필요한 데이터 생각해보기
 
+    ![alt text](./images/image_0.png)
+
     - '하석주'가 작성한 모든 게시글을 조회하기
     - 어떤 문제점이 있을까?
         - 동명이인이 있다면 혹은 특정 데이터가 수정된다면?
@@ -464,6 +466,106 @@
 
 
 ## Database Index
+
+### INDEX
+- Index란?
+    - 데이터베이스에서 데이터를 보다 빠르게 찾기 위해 사용되는 자료구조
+    - 책에서 원하는 부분을 처음부터 찾는 것이 아닌 목차를 보고 빠르게 찾을 수 있는 방식과 유사
+
+
+- Index 사용의 장점
+    - 조회하는 속도가 빠름
+    - 시스템의 부하가 적음
+
+
+- Index 사용의 단점
+    - 인덱스 정보를 추가로 저장하기 위한 저장 공간이 필요
+    - 삽입, 수정, 삭제가 빈번한 테이블인 경우 성능이 오히려 떨어짐
+
+
+### Index 종류
+- Index 종류
+    - 기본 인덱스
+    - 유니크 인덱스
+
+
+- 기본 인덱스
+    - 일반적으로 선언했을 때의 인덱스
+    - 인덱스로 설정된 칼럼의 데이터에 NULL 값이 존재할 수 있음
+    - 인덱스가 설정된 칼럼의 데이터에 중복이 있을 수 있음
+    - Ex. city 테이블의 CountryCode 칼럼을 Index로 설정했을 때 'KOR' 데이터가 중복될 수 있음
+
+
+- 유니크 인덱스
+    - UNIQUE 키워드와 함께 선언했을 때의 인덱스
+    - 인덱스를 설정할 칼럼의 데이터들은 각각 고유한 값이어야 함
+        - 중복된 데이터가 존재할 시 'Duplicate entry' 에러 발생
+        - 칼럼을 추가로 구성하여 고유한 값으로 구성하면 해결
+
+
+### Index 생성/추가하기
+- Index 생성하기
+    ```SQL
+    CREATE TABLE table_name (
+        column1 INT PRIMARY KEY AUTO_INCREMENT,
+        column2 VARCHAR(150) DEFAULT NULL,
+        column3 VARCHAR(30),
+        -- INDEX 생성하기 1 (INDEX 키워드 사용)
+        INDEX index_name (column2),
+        -- INDEX 생성하기 2 (KEY 키워드 상ㅇ)
+        KEY index_name2 (column3)
+    );
+    ```
+    - 어떤 칼럼을 인덱스로 설정하는 것이 좋을까?
+        - 자주 검색되는 칼럼
+        - 중복되는데이터가 적은 칼럼
+
+
+- Index 추가하기 1
+    ```SQL
+    CREATE INDEX index_name
+    ON table_name (column1, column2, ...);
+    ```
+    - CREATE INDEX 구문을 이용해서 추가하는 방법
+
+
+- Index 추가하기 2
+    ```SQL
+    ALTER TABLE table_name
+    ADD INDEX index_name (column1, column2, ...);
+    ```
+    - ALTER TABLE 구문을 이용해서 추가하는 방법
+
+
+- INDEX 생성과 INDEX 추가의 차이점?
+    - 둘 다 Index를 설정하는 것은 동일
+    - 테이블 생성 시 인덱스를 정의하는 것이 좀 더 효율적(데이터가 없기 때문에 Index를 설정하는 시간이 적음)
+    - 이미 테이블에 많은 데이터가 존재하는 상태에서 Index를 추가 한다면 추가된 Index 설정을 위해 일시적으로 데이터베이스 시스템에 영향이 있을 수 있음
+
+
+
+### Index 사용하기
+- Index 사용하기
+    - 이미 생성된 city 테이블에는 Name 칼럼과 CountryCode 칼럼이 인덱스로 설정되어 있음
+        ```SQL
+        SHOW CREATE TABLE city;
+
+        -- CREATE TABLE 'city' (
+        -- 'ID' int NOT NULL AUTO_INCREMENT,
+        -- 중략...
+        -- PRIMARY KEY ('ID'),
+        
+        -- KEY 'CountryCode' ('CountryCode'),
+        -- KEY 'idx_city_name' ('Name'),
+        
+        -- CONSTRAINT 'city_ibfk_1' FOREIGN KEY ('CountryCode')   )
+        ```
+
+
+
+### Index 삭제하기
+    - INDEX / Index 종류
+    - Index 생성/추가하기 / Index 사용하기 / Index 삭제하기
 
 
 

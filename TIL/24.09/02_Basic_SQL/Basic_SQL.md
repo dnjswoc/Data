@@ -28,6 +28,10 @@
 
 
 ## DML
+- SQL Statements 유형
+![alt text](./images/image_0.png)
+
+
 - Data Manipulation Language
     - 테이블 내의 데이터를 추가, 수정, 삭제, 조회를 위한 언어
     - 데이터 조회는 기능이 많아 Data Query Language로 구분하기도 함
