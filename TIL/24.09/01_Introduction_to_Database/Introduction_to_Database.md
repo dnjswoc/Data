@@ -368,10 +368,12 @@
 
             ![alt text](./images/image_18.png)
 
-        - 완전 함수적 종속        
+        - 완전 함수적 종속    
+
             ![alt text](./images/image_19.png)
 
         - 부분 함수적 종속
+
             ![alt text](./images/image_20.png)
 
 
@@ -429,7 +431,7 @@
 
     - 관계형 데이터베이스와의 대화를 위해 사용하는 프로그래밍 언어
 
-        ![alt text](image.png)
+        ![alt text](./images/image_29.png)
 
 - SQL Syntax
 
