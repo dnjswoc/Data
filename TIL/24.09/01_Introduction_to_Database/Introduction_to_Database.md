@@ -320,7 +320,7 @@
     3. 삭제 이상(Deletion Anomaly)
         - 튜플 데이터를 삭제하는 경우 반드시 있어야 하는 데이터까지 같이 삭제되는 문제
 
-## 1NF ~ 3NF, BCNF
+### `1NF ~ 3NF, BCNF`
 - 데이터베이스 정규화의 종류 : 1NF ~ 6NF (+BCNF)가 있지만 일반적으로 3NF만 되면 정규화가 되었다고 표현
 
 - 정규화 종류 및 규칙
@@ -336,32 +336,52 @@
     - BCNF (Boyce Codd Normalization Form)
         - 제 3 정규화에 PK가 아닌 속성이 PK의 속성을 결정 지을 수 없어야 한다.
 
+<br>
 
 - 제 1 정규화 (1NF)
     - 각 속성이 원자적(Atomic)이며, 각 행이 유일한 식별자(Primary Key)를 가져야 함
         - 중복된 데이터를 허용하지 않음
 
+            ![alt text](./images/image_14.png)
+
+<br>
 
 - 제 1 정규화 (1NF) 시도
     - 2개를 초과하는 전화번호를 저장할 수 없으며, 불필요한 NULL 값을 가지게 됨
 
+        ![alt text](./images/image_15.png)
+
     - 기본 키가 중복 됨
+
+        ![alt text](./images/image_16.png)
 
     - 고객 번호에 따른 전화번호를 저장하는 테이블로 분리
 
+        ![alt text](./images/image_17.png)
+
+<br>
 
 - 제 2 정규화 (2NF)
     - 제 1 정규화를 만족하며, 기본 키에 모든 속성이 완전 함수적 종속(Fully Functional Dependency)을 가져야 함
         - 즉, 테이블의 모든 칼럼이 기본 키에 대해 완전하게 종속되어야 함
         - 아래는 생산지가 생산자에 부분 함수적 종속이 되어 있음
 
-        - 완전 함수적 종속
+            ![alt text](./images/image_18.png)
+
+        - 완전 함수적 종속        
+            ![alt text](./images/image_19.png)
 
         - 부분 함수적 종속
+            ![alt text](./images/image_20.png)
+
+
+            ![alt text](./images/image_21.png)
     
     - 생산자와 생산지가 완전 함수적 종속이 되도록 테이블 분리
 
+        ![alt text](./images/image_22.png)
 
+<br>
 
 - 제 3 정규화 (3NF)
     - 제 2 정규화를 만족하며, 이행적 함수 종속(Transitive Dependency)이 없어야 함
@@ -369,39 +389,60 @@
             - A → B, B → C가 성립할 때, A → C가 성립하는 것
             - 기본 키가 아닌 다른 속성에 종속된 경우를 의미함
 
+                ![alt text](./images/image_23.png)
     
     - 학과와 학과장을 분리
 
+        ![alt text](./images/image_24.png)
+
+<br>
 
 - BCNF (Boyce Codd Normal Form)
     - 제 3 정규화를 진행한 테이블에 대해 모든 결정자가 후보 키가 되도록 테이블을 분리하는 것
+
         - 즉, PK가 아닌 속성이 PK의 속성을 결정 지을 수 없어야 함
+
         - 아래 테이블은 담당 교수가 하나의 과목만 맡고 있다고 가정했을 때
 
+            ![alt text](./images/image_25.png)
 
     - 김교수가 '국문학의 이해' → '고전 문학의 이해'로 명칭을 변경할 수 있음
         - 담당 교수가 과목의 결정자가 됨
+            ![alt text](./images/image_26.png)
 
         - 과목은 담당 교수를 따라갈 수 밖에 없어 갱신 이상 발생 가능
 
+            ![alt text](./images/image_27.png)
 
     - 담당 교수와 과목명을 따로 분리
 
+        ![alt text](./images/image_28.png)
 
+<br>
 
-# SQL 기본
+---
+
+### `SQL 기본`
 - SQL(Structure Query Language, 테이블의 형태로 **구조화**된 관계형 데이터베이스에게 요청을 **질의(요청)**)
+
     - 데이터베이스에 정보를 저장하고 처리하기 위한 프로그래밍 언어
+
     - 관계형 데이터베이스와의 대화를 위해 사용하는 프로그래밍 언어
 
+        ![alt text](image.png)
+
 - SQL Syntax
+
     ```SQL
     SELECT column_name FROM table_name;
     ```
     1. SQL 키워드는 대소문자를 구분하지 않음
+
         - 하지만 대문자로 작성하는 것을 권장 (명시적 구분)
+
     
     2. 각 SQL Statements의 끝에는 세미콜론(';')이 필요
+
         - 세미콜론은 각 SQL Statements을 구분하는 방법 (명령어의 마침표)
 
 ## SQL Statements
