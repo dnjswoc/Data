@@ -562,12 +562,162 @@
         ```
 
 
+- Index 사용하기 1
+    ```SQL
+    SELECT * FROM city
+    WHERE Name = 'Seoul';
+    ```
+    - WHERE 절에서 사용
+        - 기존 WHERE 절 사용하는 것과 동일
+        - 내부적으로 INDEX를 통해 빠르게 데이터 접근하게 됨
+
+- Index 사용하기 2
+    ```SQL
+    SELECT * FROM city
+    ORDER BY Name;
+    ```
+    - ORDER BY에서 사용
+        - Name 칼럼에 인덱스가 있어 정렬도 효과적으로 수행됨
+
+
+- Index 사용하기 3
+    ```SQL
+    SELECT city.Name, country.Name
+    FROM city
+    JOIN country ON city.CountryCode = country.Code
+    WHERE city.Name = 'Seoul';
+    ```
+    - JOIN 에서 사용
+        - city 테이블의 CountryCode 칼럼이 인덱스로 설정되어 있어 JOIN 실행 시 빠르게 수행됨
+
 
 ### Index 삭제하기
-    - INDEX / Index 종류
-    - Index 생성/추가하기 / Index 사용하기 / Index 삭제하기
+
+- Index 삭제하기 1
+    ```SQL
+    ALTER TABLE table_name
+    DROP INDEX index_name;
+    ```
+    - ALTER TABLE 을 이용하여 INDEX 삭제 가능
+    - 다른 데이터베이스 객체(열 추가, 삭제)와 일관된 구문을 유지할 수 있어 일반적으로 사용되어짐
+
+
+- Index 삭제하기 2
+    ```SQL
+    DROP INDEX indeX_name
+    ON table_name;
+    ```
+    - DROP INDEX를 이용하여 INDEX 삭제 가능
+    - 작업의 명확성을 높이고 싶을 때 사용
+
+
+- 인덱스 정리
+    - 데이터를 주로 탐색, 정렬을 할 때 매우 효율적
+        - 단, 데이터 양이 적은 경우는 이점이 크지 않을 수 있음
+
+    - 인덱스는 주로 유일한 값을 가진 칼럼을 사용할 수록 유리
+
+    - 과도한 인덱스 사용은 데이터의 추가, 수정, 삭제가 일어날 때마다 성능 저하가 발생할 수 있음
+
+    - 추가 공간을 필요로 하기 때문에 비용적인 측면도 같이 고려해야 함
 
 
 
 
 ## 참고
+
+ - VIEW / B-tree
+ ### VIEW
+ - VIEW
+    - 데이터베이스 내에서 저장된 쿼리의 결과를 가상으로 나타내는 객체로 가상 테이블이라고도 함
+    - 실제 데이터를 가지고 있지 않고, 실행 시점에 쿼리를 실행하여 결과를 생성하여 보여줌
+
+
+- VIEW의 장점
+    - 편리성
+        - 복잡한 쿼리를 미리 정의된 뷰로 만들어 단순화 가능
+    
+    - 보안성
+        - 사용자가 데이터베이스 일부만 볼 수 있도록 제한 가능
+
+    - 재사용성
+        - 동일한 뷰를 여러 쿼리에서 사용 가능
+
+
+- VIEW 생성하기
+    ```SQL
+    CREATE VIEW
+        view_name
+    AS
+        select_statement;
+    ```
+    - CREATE VIEW 이후 뷰 이름 설정
+        - 뷰 이름은 v_와 같은 접두사를 이용하여 일반 테이블과 구분
+    - AS 키워드 이후 데이터는 SELECT 구문을 이용
+    - view 사용 방법은 설정한 view_name 을 이용
+
+
+- VIEW 활용 1
+    - 국가 코드와 이름을 v_simple_country 라는 이름의 view로 생성
+
+        ```SQL
+        CREATE VIEW v_simple_country AS
+        SELECT Code, Name
+        FROM country;
+        ```
+
+
+- VIEW 활용 2
+    - 각 국가별 가장 인구가 많은 도시를 조인한 뷰를 v_largest_ciry_per_country라는 이름의 view로 생성
+
+        ```SQL
+        CREATE VIEW v_largest_city_per_country AS
+        SELECT
+            c.Name AS CountryName,
+            ci.Name AS LargestCity,
+            ci.Population AS CityPopulation,
+            c.Population AS countryPopulation
+        FROM country c
+        JOIN city ci ON c.Code = ci.CountryCode
+        WHERE (ci.CountryCode, ci.Population) IN (
+            SELECT CountryCode, MAX(Population)
+            FROM city
+            GROUP BY CountryCode
+        );
+        ```
+
+
+- VIEW 활용 3
+    - v_largest_city_per_country 뷰를 이용하여 Asia 국가 중 가장 인구가 작은 곳보다 인구가 많은 모든 도시의 개수를 조회
+
+        ```SQL
+        SELECT COUNT(*) AS CountCity
+        FROM v_largest_city_per_country
+        WHERE CityPopulation >= (
+            SELECT MIN(Population)
+            FROM country
+            GROUP BY Continent
+            HAVING Continent = 'Asia'
+        );
+        ```
+
+
+- VIEW 삭제하기
+    ```SQL
+    DROP VIEW
+        view_name;
+    ```
+    - DROP VIEW 이후 삭제할 뷰 작성
+
+
+
+### B-tree
+
+- B-tree 구조
+    - 가장 일반적으로 사용하는 Index 구조
+
+
+    - 이진 탐색 트리의 한계(최악의 경우 O(N))를 보완한 것이 B-Tree
+    - B-Tree는 하나의 레벨에 많은 자료를 저장할 수 있어 높이가 낮음
+        - Tree의 높이가 낮다는 의미는 leaf node까지의 거리가 짧아 탐색 성능이 좋다는 의미
+        - B-tree는 항상 O(logN)의 성능을 가짐
