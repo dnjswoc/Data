@@ -29,8 +29,10 @@
 
 ## DML
 - SQL Statements 유형
-![alt text](./images/image_0.png)
-
+    |유형|역할|SQL 키워드|
+    |:--:|:--:|:--:|
+    |DML <br> (Data Manipulation Langauge)|데이터 조작 <br> (추가, 수정, 삭제)|**INSERT** <br> **UPDATE** <br> **DELETE**|
+    |
 
 - Data Manipulation Language
     - 테이블 내의 데이터를 추가, 수정, 삭제, 조회를 위한 언어
@@ -58,36 +60,46 @@
     - INSERT INTO 절 다음에 테이블 이름과 괄호 안에 필드 목록 작성
     - VALUES 키워드 다음 괄호 안에 해당 필드에 삽입할 값 목록 작성
 
-- INSERT 활용
+- INSERT 활용 1
+
     - articles 테이블에 다음과 같은 데이터 입력
 
-    ```SQL
-    INSERT INTO
-        articles (title, content, createdAt)
-    VALUES
-        ('hello', 'world', '2000-01-01');
-    ```
+        ![alt text](./images/image_0.png)
+
+        ```SQL
+        INSERT INTO
+            articles (title, content, createdAt)
+        VALUES
+            ('hello', 'world', '2000-01-01');
+        ```
+
+- INSERT 활용 2
 
     - articles 테이블에 다음과 같은 데이터 추가 입력
 
-    ```SQL
-    INSERT INTO
-        articles (title, content, createdAt)
-    VALUES
-        ('title1', 'content1', '1900-01-01'),
-        ('title2', 'content2', '1800-01-01'),
-        ('title3', 'content3', '1700-01-01');
-    ```
+        ![alt text](./images/image_1.png)
 
+        ```SQL
+        INSERT INTO
+            articles (title, content, createdAt)
+        VALUES
+            ('title1', 'content1', '1900-01-01'),
+            ('title2', 'content2', '1800-01-01'),
+            ('title3', 'content3', '1700-01-01');
+        ```
+
+- INSERT 활용 3
 
     - NOW 함수를 사용해 articles 테이블에 다음과 같은 데이터 추가 입력
 
-    ```SQL
-    INSERT INTO
-        articles (title, content, createdAt)
-    VALUES
-        ('mytitle', 'mycontent', NOW());
-    ```
+        ![alt text](./images/image_2.png)
+
+        ```SQL
+        INSERT INTO
+            articles (title, content, createdAt)
+        VALUES
+            ('mytitle', 'mycontent', NOW());
+        ```
 
 ### UPDATE
 - **UPDATE** statement : 테이블 레코드 수정
@@ -103,29 +115,36 @@
     - WHERE 절에서 수정할 레코드를 지정하는 조건 작성
     - WHERE 절을 작성하지 않으면 모든 레코드를 수정
 
-- UPDATE 활용
+- UPDATE 활용 1
+
     - articles 테이블 1번 레코드의 title 필드 값을 'update Title'로 변경
 
-    ```SQL
-    UPDATE
-        articles
-    SET
-        title = 'update Title'
-    WHERE
-        id = 1;
-    ```
+        ![alt text](./images/image_3.png)
+
+        ```SQL
+        UPDATE
+            articles
+        SET
+            title = 'update Title'
+        WHERE
+            id = 1;
+        ```
+
+- UPDATE 활용 2
 
     - articles 테이블 2번 레코드의 title, content 필드 값을 각각 'update Title', 'update Content'로 변경
 
-    ```SQL
-    UPDATE
-        articles
-    SET
-        title = 'update Title',
-        content = 'update Content'
-    WHERE
-        id = 2;
-    ```
+        ![alt text](./images/image_4.png)
+
+        ```SQL
+        UPDATE
+            articles
+        SET
+            title = 'update Title',
+            content = 'update Content'
+        WHERE
+            id = 2;
+        ```
 
 
 ### DELETE
@@ -141,18 +160,27 @@
     - WHERE 절에서 삭제할 레코드를 지정하는 조건 작성
     - WHERE 절을 작성하지 않으면 모든 레코드를 삭제
 
+
 - DELETE 활용
     - articles 테이블의 1번 레코드 삭제
 
-    ```SQL
-    DELETE FROM
-        articles
-    WHERE
-        id = 1;
-    ```
+        ![alt text](./images/image_5.png)
+
+        ```SQL
+        DELETE FROM
+            articles
+        WHERE
+            id = 1;
+        ```
 
 
 ## DQL
+
+|유형|역할|SQL 키워드|
+|:--:|:--:|:--:|
+|DQL <br> (Data Query Language)|데이터 검색|**SELECT**|
+|
+
 ### SELECT
 - **SELECT** statement : 테이블에서 데이터를 조회
 
@@ -166,52 +194,72 @@
     - SELECT 키워드 이후 데이터를 선택하려는 필드를 하나 이상 지정
     - FROM 키워드 이후 데이터를 선택하려는 테이블의 이름을 지정
 
-- SELECT 활용
+
+- SELECT 활용 1
+
     - 테이블 country에서 Name 필드의 모든 데이터를 조회
 
-    ```SQL
-    SELECT
-        Name
-    FROM
-        country;
-    ```
+        ![alt text](./images/image_6.png)
+
+        ```SQL
+        SELECT
+            Name
+        FROM
+            country;
+        ```
+
+- SELECT 활용 2
 
     - 테이블 country에서 Code, Name 필드의 모든 데이터를 조회
 
-    ```SQL
-    SELECT
-        Code, Name
-    FROM
-        country;
-    ```
+        ![alt text](./images/image_7.png)
+
+        ```SQL
+        SELECT
+            Code, Name
+        FROM
+            country;
+        ```
+
+- SELECT 활용 3
 
     - 테이블 country에서 모든 필드 데이터를 조회
 
-    ```SQL
-    SELECT
-        *
-    FROM
-        country;
-    ```
+        ![alt text](./images/image_8.png)
+
+        ```SQL
+        SELECT
+            *
+        FROM
+            country;
+        ```
+
+- SELECT 활용 4
 
     - 테이블 country에서 Name 필드의 모든 데이터를 조회(단, 조회 시 Name이 아닌 '국가'로 출력 될 수 있도록 변경)
 
-    ```SQL
-    SELECT
-        Name AS '국가'
-    FROM
-        country;
-    ```
+        ![alt text](./images/image_9.png)
+
+        ```SQL
+        SELECT
+            Name AS '국가'
+        FROM
+            country;
+        ```
+
+- SELECT 활용 5
 
     - 테이블 country에서 Name, Population 필드의 모든 데이터 조회(단, Population 필드는 1000으로 나눠 k 단위 값으로 출력)
 
-    ```SQL
-    SELECT
-        Name,
-        Population / 1000 AS '인구 (k)'
-    FROM
-        country;
-    ```
+        ![alt text](./images/image_10.png)
+
+        ```SQL
+        SELECT
+            Name,
+            Population / 1000 AS '인구 (k)'
+        FROM
+            country;
+        ```
 
 - SELECT 정리
     - 테이블의 데이터를 조회 및 반환
@@ -221,15 +269,18 @@
 
 ## Filtering Data
 - Filtering data 관련 Keywords
+
     - Clause
         - DISTINCT
         - WHERE
+
     - Operator
         - BETWEEN
         - IN
         - LIKE
         - Comparison
         - Logical
+
 
 ### DISTINCT
 - **DISTINCT** statement : 조회 결과에서 중복된 레코드를 제거
@@ -244,15 +295,19 @@
     - SELECT 키워드 바로 뒤에 작성해야 함
     - SELECT DISTINCT 키워드 다음에 고유한 값을 선택하려는 하나 이상의 필드를 지정
 
+
 - DISTINCT 활용
+
     - 테이블 country에서 Continent 필드의 데이터를 중복없이 조회
 
-    ```SQL
-    SELECT
-        DISTINCT Continent
-    FROM
-        country;
-    ```
+        ![alt text](./images/image_11.png)
+
+        ```SQL
+        SELECT
+            DISTINCT Continent
+        FROM
+            country;
+        ```
 
 
 ### WHERE
@@ -270,39 +325,51 @@
     - FROM clause 뒤에 위치
     - search_condition은 비교연산자 및 논리연산자(AND, OR, NOT 등)를 사용하는 구문이 사용됨
 
-- WHERE 활용
+
+- WHERE 활용 1
+
     - 테이블 country에서 Region 필드 값이 'Eastern Asia'인 데이터의 Name, Population 조회
 
-    ```SQL
-    SELECT
-        Name, Population
-    FROM
-        country
-    WHERE Region = 'Eastern Asia';
-    ```
+        ![alt text](./images/image_12.png)
+
+        ```SQL
+        SELECT
+            Name, Population
+        FROM
+            country
+        WHERE Region = 'Eastern Asia';
+        ```
+
+- WHERE 활용 2
 
     - 테이블 country에서 IndepYear 필드 값이 NULL이 아닌 데이터의 Name, Region, Population, IndepYear 조회
 
-    ```SQL
-    SELECT
-        Name, Region, Population, IndepYear
-    FROM
-        country
-    WHERE
-        IndepYear IS NULL;
-    ```
+        ![alt text](./images/image_13.png)
+
+        ```SQL
+        SELECT
+            Name, Region, Population, IndepYear
+        FROM
+            country
+        WHERE
+            IndepYear IS NULL;
+        ```
+
+- WHERE 활용 3
 
     - 테이블 country에서 Population 필드 값이 천 만 이상이고 LifeExpectancy 필드가 78 이상인 데이터의 Name, Region, LifeExpectancy 조회
 
-    ```SQL
-    SELECT
-        Name, Region, LifeExpectancy
-    FROM
-        country
-    WHERE
-        Population >= 10000000
-        AND LifeExpectancy >= 78;
-    ```
+        ![alt text](./images/image_14.png)
+
+        ```SQL
+        SELECT
+            Name, Region, LifeExpectancy
+        FROM
+            country
+        WHERE
+            Population >= 10000000
+            AND LifeExpectancy >= 78;
+        ```
 
 
 ### Database Operator
@@ -316,35 +383,43 @@
     Column BETWEEN A AND B
     ```
 
+
 - BETWEEN 연산자
+
     - 테이블 country에서 Population 필드 값이 백만 이상 오백만 이하이고 GNPOld가 GNP 보다 큰 데이터의 Name, Population 그리고 GNPOld와 GNP 차이를 GNP diff로 작성하여 조회
 
-    ```SQL
-    SELECT
-        Name, Region, Population,
-        GNP - GNPOld AS 'GNP Diff'
-    FROM
-        country
-    WHERE
-        Population BETWEEN 1000000 AND 5000000
-        -- Population >= 1000000 AND Population <= 5000000
-        AND GNP < GNPOld;
-    ```
+        ![alt text](./images/image_15.png)
+
+        ```SQL
+        SELECT
+            Name, Region, Population,
+            GNP - GNPOld AS 'GNP Diff'
+        FROM
+            country
+        WHERE
+            Population BETWEEN 1000000 AND 5000000
+            -- Population >= 1000000 AND Population <= 5000000
+            AND GNP < GNPOld;
+        ```
 
 
 - **IN** Operator : 값이 특정 목록 안에 있는지 확인
 
+
 - IN Operator 활용
+
     - 테이블 country에서 Continent 필드 값이 'North America' 또는 'Asia' 인 데이터의 Code, Name, Continent 조회
 
-    ```SQL
-    SELECT
-        Code, Name, Continent
-    FROM
-        country
-    WHERE
-        Continent IN ('North America', 'Asia');
-    ```
+        ![alt text](./images/image_16.png)
+
+        ```SQL
+        SELECT
+            Code, Name, Continent
+        FROM
+            country
+        WHERE
+            Continent IN ('North America', 'Asia');
+        ```
 
 
 - **LIKE** Operator : 값이 특정 패턴에 일치하는지 확인(Wildcards와 함께 사용)
@@ -354,32 +429,42 @@
     - '_' : **단일 문자**와 일치하는지 확인
 
 
-- LIKE Operator 활용
+- LIKE Operator 활용 1
+
     - 테이블 country에서 Name 필드 값이 'South'으로 시작하는 데이터의 Name, Region, Population, GNP 조회
 
-    ```SQL
-    SELECT
-        Name, Region, Population, GNP
-    FROM
-        country
-    WHERE
-        Name LIKE 'South%';
-    ```
+        ![alt text](./images/image_17.png)
+
+        ```SQL
+        SELECT
+            Name, Region, Population, GNP
+        FROM
+            country
+        WHERE
+            Name LIKE 'South%';
+        ```
+
+- LIKE Operator 활용 2
 
     - 테이블 country에서 Name 필드 값이 'South'으로 시작하고, 공백을 포함하여 6자리를 가지는 데이터의 Name, Region, Population, GNP 조회
 
-    ```SQL
-    SELECT
-        Name, Region, Population, GNP
-    FROM
-        country
-    WHERE
-        Name LIKE 'South______';
-    ```
+        ![alt text](./images/image_18.png)
+
+        ```SQL
+        SELECT
+            Name, Region, Population, GNP
+        FROM
+            country
+        WHERE
+            Name LIKE 'South______';
+        ```
 
 
 - **IS** Operator
     - NULL 값은 = 연산자를 활용하여 비교 불가
+
+        ![alt text](./images/image_19.png)
+
     - **IS** 연산자를 통해 NULL 인지 확인
         ```SQL
         SELECT
@@ -401,21 +486,23 @@
 
     - 우선 순위를 고려하지 않고 작성하면 의도치 않은 동작 발생
 
+
 - 연산자 우선순위 관련 오동작 예시
+
     - 테이블 country에서 IndepYear가 1981이거나 1901이고, LifeExpectancy가 75이하인 데이터의 Name, IndepYear, LifeExpectancy를 조회
-        ```SQL
-        SELECT
-            Name, IndepYear, LifeExpectancy
-        FROM
-            country
-        WHERE
-            IndepYear = 1981 OR IndepYear = 1901
-            -- IndepYear = 1901 OR IndepYear = 1981
-            (IndepYear = 1981 OR IndepYear = 1901)
-            AND LifeExpectancy <= 75;
-        ```
-        - 정상적으로 동작하는 것 같지만 **OR의 조건 순서가 바뀌면 결과가 달라짐**
+
+        ![alt text](./images/image_20.png)
+
+        - 정상적으로 동작하는 것 같지만
+        
+        ![alt text](./images/image_21.png)
+
+        - **OR의 조건 순서가 바뀌면 결과가 달라짐**
+
+        ![alt text](./images/image_22.png)
+
         - **실수하기 쉬운 논리 연산자의 경우 괄호를 사용하여 우선 순위 표시를 권장**
+
 
 
 
@@ -424,16 +511,22 @@
     - 문자형
         - CONCAT, TRIM, REPLACE
         - LOCATE
+
     - 숫자형
         - ABS, MOD, POW
         - CEIL, FLOOR, ROUND
+
     - 날짜형
         - CURDATE, CURTIME, NOW
         - DATE_FORMAT
+
     - NULL 관련
         - ISFULL, COALESCE, NULLIF
 
+
+
 ### 문자형
+
 - 문자형 함수
     - CONCAT(str1, str2, ...)
         - 인자로 들어오는 문자열을 하나로 연결해주는 함수
@@ -533,11 +626,20 @@
     - DATE_FORMAT(date, format)
         - 날짜 정보를 원하는 format 형태로 변환
 
+            |포멧|의미|포멧|의미|
+            |:---:|:---|:---:|:---|
+            |%y|년도 (00 ~ 99)|%h|시간 (00 ~ 23)|
+            |%m|월 (00 ~ 12)|%i|분 (00 ~ 59)|
+            |%d|일 (00 ~31)|%s|초 (00 ~ 59)|
+            |%a|요일 (Sun ~ Sat)|%r|시간 (시:분:초 AM/PM)|
+            |%b|월 (Jan ~ Dec)|%T|시간 (시:분:초)|
+            |
+
             ```SQL
             SELECT DATE_FORMAT
             ('2024-08-23 13:35:20', '%b-%d (%a) %r');
             ```
-            ![alt text](image.png)
+            ![alt text](./images/image_23.png)
         
 
 
@@ -550,8 +652,12 @@
         SELECT IFNULL('expr1', 'expr1 is NULL');
         ```
 
+
 - IFNULL 함수 활용
+
     - 'North America'에 속한 국가의 이름과 독립년도 만약 독립 연도가 없으면 'no_data'가 출력될 수 있도록 조회
+
+        ![alt text](./images/image_24.png)
 
         ```SQL
         SELECT
@@ -571,8 +677,12 @@
         SELECT NULLIF('expr1', 'expr2');
         ```
 
+
 - NULLIF 함수 활용
+
     - 모든 국가의 정보 중 인구가 0인 경우 NULL 로 표시되도록 조회
+
+        ![alt text](./images/image_25.png)
 
         ```SQL
         SELECT
@@ -594,8 +704,11 @@
             ```
 
 - COALESCE 함수 활용
+
     - 'Africa'의 기대 수명이 70세 미만인 국가의 GNP 조회
     - GNP의 값이 0이거나 NULL인 경우, GNPOld 값을 출력하고 만약 GNPOld 값도 NULL인 경우 'No data'를 출력
+
+        ![alt text](./images/image_26.png)
     
         ```SQL
         SELECT
@@ -609,6 +722,7 @@
 
 
 ## Sorting data
+
 ### ORDER BY
 - **ORDER BY** statement : 조회 결과의 레코드를 정렬
 
@@ -627,8 +741,11 @@
     - 하나 이상의 칼럼을 기준으로 결과를 오름차순(ASC, 기본 값), 내림차순(DESC)으로 정렬
 
 
-- ORDER BY 활용
+- ORDER BY 활용 1
+
     - country 테이블에서 GovernmentForm 필드의 모든 데이터를 오름차순으로 조회
+
+        ![alt text](./images/image_27.png)
 
         ```SQL
         SELECT
@@ -639,7 +756,11 @@
             GovernmentForm;
         ```
 
+- ORDER BY 활용 2
+
     - country 테이블에서 GovernmentForm 필드의 모든 데이터를 내림차순으로 조회
+
+        ![alt text](./images/image_28.png)
 
         ```SQL
         SELECT
@@ -650,7 +771,11 @@
             GovernmentForm DESC;
         ```
 
+- ORDER BY 활용 3
+
     - country 테이블에서 GovernmentForm 필드를 기준으로 내림차순 정렬한 다음 SurfaceArea 필드 기준으로 오름차순 정렬하여 조회
+
+        ![alt text](./images/image_29.png)
 
         ```SQL
         SELECT
@@ -661,7 +786,27 @@
             GovernmentForm DESC, SurfaceArea ASC;
         ```
 
+
+- 정렬에서의 NULL
+    - NULL 값이 존재할 경우 오름차순 정렬 시 결과에 NULL이 먼저 출력
+
+        ![alt text](./images/image_30.png)
+
+        ```SQL
+        SELECT
+            ReportsTo
+        FROM
+            employees
+        ORDER BY
+            ReportsTo
+        ```
+
+
+- ORDER BY 활용 4
+
     - country 테이블에서 Continent 필드가 'Asia'인 데이터 중에 IndepYear 기준으로 오름차순 정렬한 다음 Name, IndepYear 필드의 모든 데이터를 조회
+
+        ![alt text](./images/image_31.png)
 
         ```SQL
         SELECT
@@ -674,7 +819,11 @@
             IndepYear;
         ```
 
+- ORDER BY 활용 5
+
     - country 테이블에서 Continent 필드가 'Asia'인 데이터 중에 IndepYear 기준으로 오름차순 정렬할 때 NULL 데이터는 마지막에 위치하도록 Name, IndepYear 필드의 모든 데이터를 조회
+
+        ![alt text](./images/image_32.png)
 
         ```SQL
         SELECT
@@ -688,19 +837,11 @@
         ```
 
 
-- 정렬에서의 NULL
-    - NULL 값이 존재할 경우 오름차순 정렬 시 결과에 NULL이 먼저 출력
-        ```SQL
-        SELECT
-            ReportsTo
-        FROM
-            employees
-        ORDER BY
-            ReportsTo
-        ```
+
 
 
 ### LIMIT
+
 - **LIMIT** clause : 조회하는 레코드 수를 제한
 
 - LIMIT syntax
@@ -717,6 +858,9 @@
 
 
 - LIMIT & OFFSET 예시
+
+    ![alt text](./images/image_33.png)
+
     ```SQL
     SELECT
         ..
@@ -726,8 +870,11 @@
     -- 2번 인덱스에서 부터 5개 선택
     ```
 
-- LIMIT 활용
+- LIMIT 활용 1
+
     - country 테이블에서 IndepYear, Name, Population 필드 데이터를 Population 기준 내림차순으로 7개만 조회
+
+        ![alt text](./images/image_34.png)
 
         ```SQL
         SELECT
@@ -739,7 +886,11 @@
         LIMIT 7;
         ```
 
+- LIMIT 활용 2
+
     - country 테이블에서 IndepYear, Name, Population 필드 데이터를 Population 기준 내림차순으로 5번째 부터 12번째 데이터만 조회
+
+        ![alt text](./images/image_35.png)
 
         ```SQL
         SELECT
@@ -753,7 +904,9 @@
         ```
 
 - SELECT statement 실행 순서
-    - FROM → SELECT → ORDER BY
+
+    ![alt text](./images/image_36.png)
+
     1. 테이블에서 (FROM)
     2. 조회하여 (SELECT)
     3. 정렬 (ORDER BY)
@@ -770,11 +923,17 @@
         FROM country;
         ```
 
+        ![alt text](./images/image_37.png)
+
+
     - COUNT(expr) : NULL 값을 제외한 행의 수를 출력
         ```SQL
         SELECT COUNT(IndepYear)
         FROM country;
         ```
+
+        ![alt text](./images/image_38.png)
+
 
     - SUM(expr) : NULL 값을 제외한 합계 출력
         ```SQL
@@ -782,11 +941,17 @@
         WHERE Continent = 'Asia';
         ```
 
+        ![alt text](./images/image_39.png)
+
+
     - AVG(expr) : NULL 값을 제외한 평균 출력
         ```SQL
         SELECT AVG(GNP) FROM country
         WHERE Continent = 'Asia';
         ```
+
+        ![alt text](./images/image_40.png)
+
 
     - MAX(expr) : NULL 값을 제외한 최댓값 출력
         ```SQL
@@ -794,11 +959,17 @@
         WHERE Continent = 'Asia';
         ```
 
+        ![alt text](./images/image_41.png)
+
+
     - MIN(expr) : NULL 값을 제외한 최솟값 출력
         ```SQL
         SELECT MIN(GNP) FROM country
         WHERE Continent = 'Asia';
         ```
+
+        ![alt text](./images/image_42.png)
+
 
     - STDDEV(expr) : NULL 값을 제외한 표준 편차 출력
         ```SQL
@@ -806,11 +977,16 @@
         WHERE Continent = 'Asia';
         ```
 
+        ![alt text](./images/image_43.png)
+
+
     - VARIANCE(expr) : NULL 값을 제외한 분산 출력
         ```SQL
         SELECT VARIANCE(GNP) FROM country
         WHERE Continent = 'Asia';
         ```
+
+        ![alt text](./images/image_44.png)
 
 
 ### GROUP BY
@@ -840,6 +1016,8 @@
             Continent;
         ```
 
+        ![alt text](./images/image_45.png)
+
 
     2. COUNT 함수가 각 그룹에 대한 집계된 값을 계산
         ```SQL
@@ -851,9 +1029,14 @@
             Continent;
         ```
 
+        ![alt text](./images/image_46.png)
 
-- GROUP BY 활용
+
+- GROUP BY 활용 1
+
     - country 테이블에서 Continent 필드를 그룹화하여 각 그룹에 대한 GNP의 평균 값을 소수점 2자리로 반올림하여 조회 하고 칼럼 이름을 avg_gnp로 변경
+
+        ![alt text](./images/image_47.png)
 
         ```SQL
         SELECT
@@ -865,7 +1048,11 @@
             Continent;
         ```
 
+- GROUP BY 활용 2
+
     - country 테이블에서 Region 필드를 그룹화하여 각 그룹에 대한 개수가 15 이상 20 이하인 데이터를 내림차순으로 조회
+
+        ![alt text](./images/image_48.png)
 
         ```SQL
         SELECT
@@ -883,26 +1070,28 @@
         ```
     - 오류를 피하려면 아래와 같이 써야한다.
 
-    - HAVING clause
-        - 집계 항목에 대한 세부 조건을 지정
-        - 주로 GROUP BY와 함께 사용되면 GROUP BY가 없다면 WHERE 처럼 동작
-        ```SQL
-        SELECT
-            Region,
-            COUNT(Region) AS count_reg
-        FROM
-            country
-        GROUP BY
-            Region
-        HAVING
-            count_reg BETWEEN 15 AND 20
-        ORDER BY
-            count_reg DESC;
-        ```
+        - HAVING clause
+            - 집계 항목에 대한 세부 조건을 지정
+            - 주로 GROUP BY와 함께 사용되면 GROUP BY가 없다면 WHERE 처럼 동작
+            ```SQL
+            SELECT
+                Region,
+                COUNT(Region) AS count_reg
+            FROM
+                country
+            GROUP BY
+                Region
+            HAVING
+                count_reg BETWEEN 15 AND 20
+            ORDER BY
+                count_reg DESC;
+            ```
 
 
 - SELECT statement 실행 순서
-    - FROM → WHERE → GROUP BY → HAVING → SELECT → ORDER BY → LIMIT
+
+    ![alt text](./images/image_49.png)
+    
     1. 테이블에서 (FROM)
     2. 특정 조건에 맞추어 (WHERE)
     3. 그룹화 하고 (GROUP BY)
@@ -933,6 +1122,8 @@
         ```
         - DELETE 동작
 
+            ![alt text](./images/image_50.png)
+
 
         ```SQL
         TRUNCATE articles;
@@ -945,5 +1136,7 @@
         SELECT * FROM articles;
         ```
         - TRUNCATE 동작
+
+            ![alt text](./images/image_51.png)
 
         
