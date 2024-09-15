@@ -26,9 +26,10 @@
 - 관계의 필요성
     - 커뮤니티 게시판에 필요한 데이터 생각해보기
 
-    ![alt text](./images/image_0.png)
+        ![alt text](./images/image_0.png)
 
     - '하석주'가 작성한 모든 게시글을 조회하기
+
     - 어떤 문제점이 있을까?
         - 동명이인이 있다면 혹은 특정 데이터가 수정된다면?
             ```SQL
@@ -37,11 +38,15 @@
     
     - 테이블을 나누어서 분류하자
 
+        ![alt text](./images/image_1.png)
+
         - 각 게시글은 누가 작성했는지 알 수 있을까?
         - 작성자들의 역할은 무엇일까?
 
     
     - articles와 users 테이블에 각각 userId, roleId 외래 키 필드 작성
+
+        ![alt text](./images/image_2.png)
 
         - 관리자인 사람만 보고 싶다면? → roleId가 1인 데이터 조회
         - 하석주라는 사람이 권미숙으로 개명한다면? → users에서 한번만 변경하면 자동으로 모두 변경
@@ -50,7 +55,7 @@
 - JOIN이 필요한 순간
     - 테이블을 분리하면 데이터 관리는 용이해질 수 있으나 출력시에는 문제가 있음
     - 테이블 한 개 만을 출력할 수 밖에 없어 다른 테이블과 결합하여 출력하는 것이 필요해짐
-    - 이때 사용하는 것이 'JOIN'
+    - 이때 사용하는 것이 **'JOIN'**
 
 
 
@@ -89,6 +94,8 @@
             ('정지민', 22, 2);
         ```
 
+        ![alt text](./images/image_3.png)
+
     - articles 테이블 생성
         ```SQL
         CREATE TABLE articles (
@@ -114,9 +121,13 @@
             ('제목7', '내용7', 5);
         ```
 
+        ![alt text](./images/image_4.png)
+
 
 ## INNER JOIN
 - **INNER JOIN** clause : 두 테이블에서 값이 일치하는 레코드에 대해서만 결과를 반환
+
+    ![alt text](./images/image_5.png)
 
 
 - INNER JOIN syntax
@@ -138,7 +149,13 @@
 
     - 작성자가 있는 (존재하는 회원) 모든 게시글을 작성자 정보와 함께 조회
 
+        ![alt text](./images/image_6.png)
 
+        ![alt text](./images/image_7.png)
+
+        ![alt text](./images/image_8.png)
+
+        ![alt text](./images/image_9.png)
 
         ```SQL
         SELECT articles.*, users.id, users.name FROM articles
@@ -148,8 +165,11 @@
 
 
 
-- INNER JOIN 활용
+- INNER JOIN 활용 1
+
     - 1번 회원(하석주)이 작성한 모든 게시글의 제목과 작성자명을 조회
+
+        ![alt text](./images/image_10.png)
 
         ```SQL
         SELECT articles.title, users.name
@@ -163,6 +183,7 @@
 ### LEFT JOIN
 - **LEFT JOIN** clause : 오른쪽 테이블의 일치하는 레코드와 함께 왼쪽 테이블의 모든 레코드 반환
 
+    ![alt text](./images/image_11.png)
 
 - LEFT JOIN syntax
     ```SQL
@@ -183,6 +204,11 @@
 
     - 모든 게시글을 작성자 정보와 함께 조회
 
+        ![alt text](./images/image_12.png)
+
+        ![alt text](./images/image_13.png)
+
+        ![alt text](./images/image_14.png)
 
         ```SQL
         SELECT articles.*, users.id, users.name FROM articles
@@ -195,8 +221,11 @@
     - 오른쪽 테이블과 매칭되는 레코드가 없으면 NULL을 표시
 
 
-- LEFT JOIN 활용
+- LEFT JOIN 활용 1
+
     - 게시글을 작성한 이력이 없는 회원 정보 조회
+
+        ![alt text](./images/image_15.png)
 
         ```SQL
         SELECT articles.name
@@ -210,6 +239,7 @@
 
 
 ### RIGHT JOIN
+
 - RIGHT JOIN syntax
     ```SQL
     SELECT
@@ -228,6 +258,12 @@
 - RIGHT JOIN 예시
 
     - 모든 사용자가 작성한 글을 조회
+
+        ![alt text](./images/image_16.png)
+
+        ![alt text](./images/image_17.png)
+
+        ![alt text](./images/image_18.png)
 
         ```SQL
         SELECT articles.*, users.id, users.name FROM articles
@@ -264,6 +300,11 @@
 
     - users 테이블의 부모 자식 관계 조회
 
+        ![alt text](./images/image_19.png)
+
+        ![alt text](./images/image_20.png)
+
+        ![alt text](./images/image_21.png)
 
         ```SQL
         SELECT
@@ -279,8 +320,11 @@
 
 
 
-- SELF JOIN 활용
+- SELF JOIN 활용 1
+
     - 서로의 형제자매가 누구인지 id와 이름 조회
+
+        ![alt text](./images/image_22.png)
 
         ```SQL
         SELECT
@@ -330,8 +374,11 @@
     - 비교 연산자 (=, <, >, <= ,>=, <>)와 함께 사용
 
 
-- Single-row Subquery 활용
+- Single-row Subquery 활용 1
+
     - 'North America' 대륙의 평균 인구보다 인구가 많은 국가의 이름과 인구 조회
+
+        ![alt text](./images/image_23.png)
 
         ```SQL
         SELECT
@@ -346,8 +393,11 @@
             );
         ```
 
-    
+- Single-row Subquery 활용 2
+
     - country 테이블의 'Benin'이라는 국가의 국가 코드를 이용하여, city 테이블에 등록된 'Benin'의 모든 도시 정보를 조회
+
+        ![alt text](./images/image_24.png)
 
         ```SQL
         SELECT
@@ -362,7 +412,11 @@
             );
         ```
 
+- Single-row Subquery 활용 3
+
     - country 테이블의 각 국가마다 해당 국가 소속의 평균 도시 인구를 city 테이블을 이용하여 조회
+
+        ![alt text](./images/image_25.png)
 
         ```SQL
         SELECT
@@ -375,16 +429,8 @@
         FROM country;
         ```
 
-        ```SQL
-        SELECT
-            country.Name AS CountryName,
-            (
-                SELECT AVG(city.Population)
-                FROM city
-                WHERE city.CountryCode = country.Code
-            )   AS AvgCityPopulation
-        FROM country;
-        ```
+        ![alt text](./images/image_26.png)
+ 
         - 어떤 테이블의 칼럼을 사용하는지 테이블 명을 붙여주는 것이 가독성이 좋음
 
 
@@ -402,22 +448,33 @@
     - IN, ANY, ALL 연산자와 함께 사용
 
 
-- Multi-row Subquery 활용
+- Multi-row Subquery 활용 1
+
     - Asia에 속하는 모든 도시를 조회
+
+        ![alt text](./images/image_27.png)
 
         ```SQL
         SELECT *
         FROM city
         WHERE
             CountryCode IN (
-            -- CountryCode = () : 비교 연산자를 사용하면 에러 발생    
                 SELECT Code
                 FROM country
                 WHERE Continent = 'Asia'
             );
         ```
 
+        ![alt text](./images/image_28.png)
+
+        - 비교 연산자를 사용하면 에러 발생
+
+
+- Multi-row Subquery 활용 2
+
     - 인구가 10,000,000명 이상인 국가들의 국가 코드, 도시 이름, 지구, 인구를 조회
+
+        ![alt text](./images/image_29.png)
 
         ```SQL
         SELECT co.Code, c.Name, c.District, c.Population
@@ -445,7 +502,10 @@
 
 
 - Multi-column Subquery 활용
+
     - 각 대륙별 독립 연도가 최근인 국가의 이름, 대륙, 독립 연도를 조회
+
+        ![alt text](./images/image_30.png)
 
         ```SQL
         SELECT
@@ -512,7 +572,7 @@
         column3 VARCHAR(30),
         -- INDEX 생성하기 1 (INDEX 키워드 사용)
         INDEX index_name (column2),
-        -- INDEX 생성하기 2 (KEY 키워드 상ㅇ)
+        -- INDEX 생성하기 2 (KEY 키워드 사용)
         KEY index_name2 (column3)
     );
     ```
@@ -522,6 +582,7 @@
 
 
 - Index 추가하기 1
+
     ```SQL
     CREATE INDEX index_name
     ON table_name (column1, column2, ...);
@@ -530,6 +591,7 @@
 
 
 - Index 추가하기 2
+
     ```SQL
     ALTER TABLE table_name
     ADD INDEX index_name (column1, column2, ...);
@@ -547,19 +609,8 @@
 ### Index 사용하기
 - Index 사용하기
     - 이미 생성된 city 테이블에는 Name 칼럼과 CountryCode 칼럼이 인덱스로 설정되어 있음
-        ```SQL
-        SHOW CREATE TABLE city;
 
-        -- CREATE TABLE 'city' (
-        -- 'ID' int NOT NULL AUTO_INCREMENT,
-        -- 중략...
-        -- PRIMARY KEY ('ID'),
-        
-        -- KEY 'CountryCode' ('CountryCode'),
-        -- KEY 'idx_city_name' ('Name'),
-        
-        -- CONSTRAINT 'city_ibfk_1' FOREIGN KEY ('CountryCode')   )
-        ```
+        ![alt text](./images/image_31.png)
 
 
 - Index 사용하기 1
@@ -626,9 +677,8 @@
 
 ## 참고
 
- - VIEW / B-tree
- ### VIEW
- - VIEW
+### VIEW
+- VIEW
     - 데이터베이스 내에서 저장된 쿼리의 결과를 가상으로 나타내는 객체로 가상 테이블이라고도 함
     - 실제 데이터를 가지고 있지 않고, 실행 시점에 쿼리를 실행하여 결과를 생성하여 보여줌
 
@@ -645,6 +695,7 @@
 
 
 - VIEW 생성하기
+
     ```SQL
     CREATE VIEW
         view_name
@@ -660,6 +711,8 @@
 - VIEW 활용 1
     - 국가 코드와 이름을 v_simple_country 라는 이름의 view로 생성
 
+        ![alt text](./images/image_32.png)
+
         ```SQL
         CREATE VIEW v_simple_country AS
         SELECT Code, Name
@@ -669,6 +722,8 @@
 
 - VIEW 활용 2
     - 각 국가별 가장 인구가 많은 도시를 조인한 뷰를 v_largest_ciry_per_country라는 이름의 view로 생성
+
+        ![alt text](./images/image_33.png)
 
         ```SQL
         CREATE VIEW v_largest_city_per_country AS
@@ -689,6 +744,8 @@
 
 - VIEW 활용 3
     - v_largest_city_per_country 뷰를 이용하여 Asia 국가 중 가장 인구가 작은 곳보다 인구가 많은 모든 도시의 개수를 조회
+
+        ![alt text](./images/image_34.png)
 
         ```SQL
         SELECT COUNT(*) AS CountCity
@@ -716,6 +773,7 @@
 - B-tree 구조
     - 가장 일반적으로 사용하는 Index 구조
 
+        ![alt text](./images/image_35.png)
 
     - 이진 탐색 트리의 한계(최악의 경우 O(N))를 보완한 것이 B-Tree
     - B-Tree는 하나의 레벨에 많은 자료를 저장할 수 있어 높이가 낮음
