@@ -537,6 +537,8 @@
             SELECT DATE_FORMAT
             ('2024-08-23 13:35:20', '%b-%d (%a) %r');
             ```
+            ![alt text](image.png)
+        
 
 
 ### NULL 관련 함수

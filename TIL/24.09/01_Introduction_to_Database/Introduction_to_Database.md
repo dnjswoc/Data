@@ -464,6 +464,15 @@
     3. DML - 데이터 조작
     4. DCL - 데이터 제어
 
+    |유형|역할|SQL 키워드|
+    |:--:|:--:|:-------:|
+    |DDL <br> (Data Definition Language) <br>|데이터의 기본 구조 및 형식 변경 <br>|**CREATE** <br> **DROP** <br> **ALTER** <br> **TRUNCATE** <br>|
+    |DQL <br> (Data Query Language) <br>|데이터 검색 <br>|**SELECT** <br>|
+    |DML <br> (Data Manipulation Language) <br>|데이터 조작 <br> (추가, 수정, 삭제) <br>|**INSERT** <br> **UPDATE** <br> **DELETE** <br>|
+    |DCL <br> (Data Control Language) <br>|데이터 및 작업에 대한 <br> 사용자 권한 제어 <br>|**COMMIT** <br> **ROLLBACK** <br> **GRANT** <br> **REVOKE** <br>|
+    |
+
+
 
 
 - SQL 학습
@@ -473,8 +482,13 @@
 # DDL
 - DDL(Data Definition Language) : 테이블을 정의하고 수정하고 삭제를 위한 SQL
 
+    |유형|역할|SQL 키워드|
+    |:--:|:--:|:--:|
+    |DDL <br> (Data Definition Language) <br>|데이터의 기본 구조 및 형식 변경 <br>|**CREATE** <br> **DROP** <br> **ALTER** <br> **TRUNCATE** <br>|
+    |
+
 ## CREATE TABLE
-- CREATE TABLE statement : 테이블 생성
+- **CREATE TABLE** statement : 테이블 생성
 
 - CREATE TABLE syntax
     ```SQL
@@ -485,7 +499,9 @@
     );
     ```
     - 각 필드에 적용할 데이터 타입 작성
+
     - 테이블 및 필드에 대한 제약조건(constraints) 작성
+
 
 - CREATE TABLE 활용
     - examples 테이블 생성 및 확인
@@ -502,10 +518,14 @@
         ```SQL
         DESCRIBE examples;
         ```
+        
+        ![alt text](./images/image_30.png)
 
         ```SQL
         SHOW CREATE TABLE examples;
         ```
+
+        ![alt text](./images/image_31.png)
 
 
 - 데이터 타입
@@ -575,6 +595,8 @@
 
 - 제약 조건 정의 방법
 
+    ![alt text](./images/image_32.png)
+
     - 한 줄에 길게 작성되는 경우 뒷부분에 제약 조건 작성 가능
     - CONSTRAINT Keyword : 제약 조건에 이름 부여
 
@@ -613,6 +635,13 @@
 
 - ALTER TABLE 역할
 
+    |역할|명령어([]는 생략 가능)|
+    |:--:|:--:|
+    |칼럼 추가|**ADD [COLUMN]** col_name col_definition|
+    |칼럼명 변경|**RENAME COLUMN** col_name **TO** new_col_name|
+    |테이블명 변경|**RENAME TO** new_table_name|
+    |칼럼 삭제|**DROP [COLUMN]** col_name|
+    |
 
 1. ALTER TABLE ADD COLUMN syntax
     ```SQL
@@ -624,8 +653,11 @@
     - ADD COLUMN 키워드 이후 추가하고자 하는 새 필드 이름과 데이터 타입 및 제약 조건 작성
     - 단, 추가하고자 하는 필드에 NOT NULL 제약 조건이 있을 경우 NULL이 아닌 기본 값 설정 필요
 
-    - ALTER TABLE ADD COLUMN 활용
+    - ALTER TABLE ADD COLUMN 활용 1
+
         - examples 테이블에 다음 조건에 맞는 Country 필드 추가
+
+            ![alt text](./images/image_33.png)
 
         ```SQL
         ALTER TABLE
@@ -634,7 +666,11 @@
             Country VARCHAR(100) NOT NULL DEFAULT 'default value';
         ```
 
+    - ALTER TABLE ADD COLUMN 활용 2
+
         - examples 테이블에 다음 조건에 맞는 Age, Address 필드 추가
+
+            ![alt text](./images/image_34.png)
 
         ```SQL
         ALTER TABLE examples
@@ -655,6 +691,8 @@
     - ALTER TABLE RENAME COLUMN 활용
         - examples 테이블 Address 필드의 이름을 PostCode로 변경
 
+            ![alt text](./images/image_35.png)
+
         ```SQL
         ALTER TABLE examples
         RENAME COLUMN Address TO PostCode;
@@ -672,6 +710,8 @@
 
     - ALTER TABLE RENAME TO 활용
         - examples 테이블 이름을 new_examples로 변경
+
+            ![alt text](./images/image_36.png)
 
         ```SQL
         ALTER TABLE examples
@@ -713,7 +753,7 @@
     - "데이터베이스로부터 정보를 요청" 하는 것
     - 일반적으로 SQL로 작성하는 코드를 쿼리문(SQL문)이라 함
 
-- sQL 표준
+- SQL 표준
     - SQL은 미국 국립 표준 협회(ANSI)와 국제 표준화 기구(ISO)에 의해 표준이 채택됨
     - 모든 RDBMS에서 SQL 표준을 지원
     - 다만 각 RDBMS마다 독자적인 기능에 따라 표준을 벗어나는 문법이 존재하니 주의
