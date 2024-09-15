@@ -32,7 +32,7 @@
     |유형|역할|SQL 키워드|
     |:--:|:--:|:--:|
     |DML <br> (Data Manipulation Langauge)|데이터 조작 <br> (추가, 수정, 삭제)|**INSERT** <br> **UPDATE** <br> **DELETE**|
-    |
+    <br>
 
 - Data Manipulation Language
     - 테이블 내의 데이터를 추가, 수정, 삭제, 조회를 위한 언어
@@ -179,7 +179,7 @@
 |유형|역할|SQL 키워드|
 |:--:|:--:|:--:|
 |DQL <br> (Data Query Language)|데이터 검색|**SELECT**|
-|
+<br>
 
 ### SELECT
 - **SELECT** statement : 테이블에서 데이터를 조회
@@ -633,7 +633,7 @@
             |%d|일 (00 ~31)|%s|초 (00 ~ 59)|
             |%a|요일 (Sun ~ Sat)|%r|시간 (시:분:초 AM/PM)|
             |%b|월 (Jan ~ Dec)|%T|시간 (시:분:초)|
-            |
+            <br>
 
             ```SQL
             SELECT DATE_FORMAT

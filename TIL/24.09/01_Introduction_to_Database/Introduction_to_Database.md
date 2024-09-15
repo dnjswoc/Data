@@ -470,7 +470,7 @@
     |DQL <br> (Data Query Language) <br>|데이터 검색 <br>|**SELECT** <br>|
     |DML <br> (Data Manipulation Language) <br>|데이터 조작 <br> (추가, 수정, 삭제) <br>|**INSERT** <br> **UPDATE** <br> **DELETE** <br>|
     |DCL <br> (Data Control Language) <br>|데이터 및 작업에 대한 <br> 사용자 권한 제어 <br>|**COMMIT** <br> **ROLLBACK** <br> **GRANT** <br> **REVOKE** <br>|
-    |
+    <br>
 
 
 
@@ -485,7 +485,7 @@
     |유형|역할|SQL 키워드|
     |:--:|:--:|:--:|
     |DDL <br> (Data Definition Language) <br>|데이터의 기본 구조 및 형식 변경 <br>|**CREATE** <br> **DROP** <br> **ALTER** <br> **TRUNCATE** <br>|
-    |
+    <br>
 
 ## CREATE TABLE
 - **CREATE TABLE** statement : 테이블 생성
@@ -641,7 +641,7 @@
     |칼럼명 변경|**RENAME COLUMN** col_name **TO** new_col_name|
     |테이블명 변경|**RENAME TO** new_table_name|
     |칼럼 삭제|**DROP [COLUMN]** col_name|
-    |
+    <br>
 
 1. ALTER TABLE ADD COLUMN syntax
     ```SQL
