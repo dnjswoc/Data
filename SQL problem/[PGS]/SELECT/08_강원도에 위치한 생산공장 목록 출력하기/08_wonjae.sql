@@ -1,0 +1,10 @@
+SELECT
+    FACTORY_ID, FACTORY_NAME, ADDRESS
+FROM
+    FOOD_FACTORY
+WHERE
+    -- 강원도에 위치한 공장
+    ADDRESS LIKE '강원도%'
+ORDER BY
+    -- 공장 ID를 기준으로 오름차순
+    FACTORY_ID ASC;
