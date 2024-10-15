@@ -7,6 +7,8 @@ FROM
 WHERE
   PUBLISHED_DATE LIKE "2021%"
   -- 비교연산자 LIKE와 Wildcard character "%"를 사용하여 출판일이 2021년인 데이터를 찾도록 조건 설정
+  -- DATE_FORMAT(PUBLISHED_DATE, '%Y') = '2021'
+  -- DATE_FORMAT으로 연도를 추출하여 비교하는 것도 가능
   AND CATEGORY = "인문"
 ORDER BY
   PUBLISHED_DATE;
