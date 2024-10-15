@@ -7,7 +7,8 @@ SELECT
 FROM
   DOCTOR
 WHERE
-  MCDP_CD = "CS" OR MCDP_CD = "GS"
+  -- IN으로 진료과가 흉부외과(CS)이거나 일반외과(GS)인 데이터 조회
+  MCDP_CD IN ('CS', 'GS')
 ORDER BY
   HIRE_YMD DESC,
   -- HIRE_YMD 기준으로 내림차순(DESC)
