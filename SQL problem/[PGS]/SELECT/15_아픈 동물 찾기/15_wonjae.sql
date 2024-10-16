@@ -1,0 +1,7 @@
+SELECT
+    ANIMAL_ID, NAME
+FROM
+    ANIMAL_INS
+WHERE
+    -- 아픈 동물(INTAKE_CONDITION이 Sick) 조회
+    INTAKE_CONDITION = 'Sick';
