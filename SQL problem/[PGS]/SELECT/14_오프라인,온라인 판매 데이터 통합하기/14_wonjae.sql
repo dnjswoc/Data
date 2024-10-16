@@ -29,3 +29,5 @@ ORDER BY
     SALES_DATE ASC,
     PRODUCT_ID ASC,
     USER_ID ASC;
+
+-- 나도 다시 풀어보기..
