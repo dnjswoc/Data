@@ -1,5 +1,5 @@
 SELECT
-  COUNT(ID) AS FISH_COUNT
+  COUNT(*) AS FISH_COUNT
   -- 집계함수 COUNT로 물고기의 수를 계산
   -- AS 키워드로 FISH_COUNT로 칼럼명 지정
 FROM
