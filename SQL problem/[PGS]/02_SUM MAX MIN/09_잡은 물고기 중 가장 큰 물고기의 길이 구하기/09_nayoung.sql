@@ -1,0 +1,5 @@
+SELECT
+    # CONCAT 함수 사용
+    CONCAT(MAX(LENGTH),'cm') AS 'MAX_LENGTH'
+FROM
+    FISH_INFO;
