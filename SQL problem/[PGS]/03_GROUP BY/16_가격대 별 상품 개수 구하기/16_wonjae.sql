@@ -1,0 +1,10 @@
+SELECT
+    -- DIV : 몫을 구하는 함수, 10000으로 나눈 몫에 10000을 곱하여 가격 그룹을 설정
+    (PRICE DIV 10000) * 10000 AS 'PRICE_GROUP',
+    COUNT(*) AS 'PRODUCTS'
+FROM
+    PRODUCT
+GROUP BY
+    PRICE_GROUP
+ORDER BY
+    PRICE_GROUP;
