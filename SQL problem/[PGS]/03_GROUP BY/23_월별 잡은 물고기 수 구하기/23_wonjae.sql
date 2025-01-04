@@ -1,0 +1,11 @@
+SELECT
+    COUNT(*) AS 'FISH_COUNT',
+    -- CAST : 형변환 함수(ex. CAST(COLUMN AS UNSIGNED) : COULMN을 부호가 없는 숫자로 형변환)
+    -- MONTH() 함수도 사용 가능
+    CAST(DATE_FORMAT(TIME, '%c') AS UNSIGNED) AS 'MONTH'
+FROM
+    FISH_INFO
+GROUP BY
+    MONTH
+ORDER BY
+    MONTH ASC;
