@@ -1,0 +1,16 @@
+SELECT
+    WAREHOUSE_ID,
+    WAREHOUSE_NAME,
+    ADDRESS,
+    -- CASE WHEN을 사용하여 FREEZER_YN 값이 NULL이면 N으로 변경
+    CASE WHEN FREEZER_YN IS NULL THEN 'N'
+        ELSE FREEZER_YN
+        END
+FROM
+    FOOD_WAREHOUSE
+WHERE
+    -- 주소가 경기도로 시작하는 데이터 선택
+    ADDRESS LIKE '경기도%'
+ORDER BY
+    -- WAREHOUSE_ID 기준으로 오름차순 정렬
+    WAREHOUSE_ID ASC;
