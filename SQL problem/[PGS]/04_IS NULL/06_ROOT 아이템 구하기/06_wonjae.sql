@@ -1,0 +1,15 @@
+SELECT
+    i.ITEM_ID,
+    i.ITEM_NAME
+FROM
+    ITEM_INFO i
+JOIN
+    ITEM_TREE t
+ON
+    i.ITEM_ID = t.ITEM_ID
+WHERE
+    -- ROOT 아이템인 데이터(PARENT_ITEM_ID가 NULL) 조회
+    t.PARENT_ITEM_ID IS NULL
+ORDER BY
+    -- ITEM_ID 기준으로 오름차순 정렬
+    i.ITEM_ID ASC;
