@@ -1,0 +1,14 @@
+SELECT
+    o.ANIMAL_ID,
+    o.NAME
+FROM
+    ANIMAL_INS i
+RIGHT OUTER JOIN
+    ANIMAL_OUTS o
+ON
+    i.ANIMAL_ID = o.ANIMAL_ID
+WHERE
+    -- ANIMAL_OUTS 테이블에는 있지만, ANIMAL_INS 테이블에는 없는 데이터를 찾기 위해
+    -- ANIMAL_INS 테이블과 ANIMAL_OUTS 테이블을 RIGHT OUTER JOIN 후
+    -- ANIMAL_INS 테이블의 ID가 NULL 인 데이터를 추출
+    i.ANIMAL_ID IS NULL;
