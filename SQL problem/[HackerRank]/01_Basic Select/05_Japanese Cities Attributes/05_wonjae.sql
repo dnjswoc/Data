@@ -1,0 +1,7 @@
+SELECT
+    *
+FROM
+    CITY
+WHERE
+    -- COUNTRYCODE가 JAPAN인 데이터 조회
+    COUNTRYCODE = 'JPN';
