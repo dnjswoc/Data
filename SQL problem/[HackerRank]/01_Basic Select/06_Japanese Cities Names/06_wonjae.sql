@@ -1,0 +1,7 @@
+SELECT
+    NAME
+FROM
+    CITY
+WHERE
+    -- COUNTRYCODE가 JAPAN인 데이터의 NAME 컬럼 조회
+    COUNTRYCODE = 'JPN';

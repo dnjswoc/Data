@@ -1,0 +1,22 @@
+SELECT
+    YEAR(e.DIFFERENTIATION_DATE) AS 'YEAR',
+    -- 최댓값 - 대장균 개체의 크기
+    s.MAX_SIZE - e.SIZE_OF_COLONY AS 'YEAR_DEV',
+    e.ID
+FROM
+    ECOLI_DATA e
+LEFT JOIN
+    -- 최댓값을 구한 테이블을 LEFT JOIN
+    (SELECT
+        YEAR(DIFFERENTIATION_DATE) AS 'YEAR',
+        MAX(SIZE_OF_COLONY) AS 'MAX_SIZE'
+    FROM
+        ECOLI_DATA
+    GROUP BY
+        YEAR(DIFFERENTIATION_DATE)) s
+ON
+    -- 연도를 기준으로 JOIN
+    YEAR(e.DIFFERENTIATION_DATE) = s.YEAR
+ORDER BY
+    YEAR ASC,
+    YEAR_DEV ASC;
