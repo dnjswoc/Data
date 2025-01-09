@@ -1,0 +1,5 @@
+SELECT
+    -- CITY 개수 - 중복 없는 CITY 개수
+    COUNT(CITY) - COUNT(DISTINCT CITY)
+FROM
+    STATION;
