@@ -1,0 +1,5 @@
+SELECT
+    -- 평균 인구 내림(FLOOR)
+    FLOOR(AVG(POPULATION))
+FROM
+    CITY;
