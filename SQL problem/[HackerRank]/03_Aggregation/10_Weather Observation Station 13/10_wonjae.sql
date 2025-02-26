@@ -1,0 +1,7 @@
+SELECT
+    -- TRUNCATE(숫자, 소수점) : 소수점이하의 숫자를 버림
+    TRUNCATE(SUM(LAT_N), 4)
+FROM
+    STATION
+WHERE
+    LAT_N BETWEEN 38.7880 AND 137.2345;
