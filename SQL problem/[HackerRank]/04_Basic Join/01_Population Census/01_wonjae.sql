@@ -1,0 +1,11 @@
+SELECT
+    SUM(c1.POPULATION)
+FROM
+    CITY c1
+JOIN
+    COUNTRY c2
+ON
+    -- CITY.CountryCode와 COUNTRY.Code를 기준으로 JOIN
+    c1.COUNTRYCODE = c2.CODE
+WHERE
+    c2.CONTINENT = 'Asia';

@@ -1,0 +1,18 @@
+SELECT
+    -- GRADE가 8이하면 이름을 NULL로 표시
+    CASE WHEN g.GRADE < 8 THEN "NULL"
+        ELSE s.NAME
+        END AS NAME,
+    g.GRADE,
+    s.MARKS
+FROM
+    STUDENTS s
+JOIN
+    GRADES g
+WHERE
+    -- MARKS가 MIN_MARK와 MAX_MARK에 따라 GRADE 결정
+    s.MARKS BETWEEN g.MIN_MARK AND g.MAX_MARK
+ORDER BY
+    g.GRADE DESC,
+    s.NAME ASC,
+    s.MARKS;
