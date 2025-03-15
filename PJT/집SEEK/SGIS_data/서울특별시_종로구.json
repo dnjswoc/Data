@@ -1,0 +1,1107 @@
+[
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "CCTV 분포 현황",
+        "value": "50"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "CCTV 분포 현황",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "44"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "CCTV 분포 현황",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "CCTV 분포 현황",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "CCTV 분포 현황",
+        "value": "107"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "CCTV 분포 현황",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "CCTV 분포 현황",
+        "value": "50"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "CCTV 분포 현황",
+        "value": "112"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "CCTV 분포 현황",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "37"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "CCTV 분포 현황",
+        "value": "123"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "CCTV 분포 현황",
+        "value": "79"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "CCTV 분포 현황",
+        "value": "66"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "문화시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "문화시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "문화시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "문화시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "문화시설 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "문화시설 수",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "문화시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "문화시설 수",
+        "value": "57"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "체육시설 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "체육시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "체육시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "체육시설 수",
+        "value": "50"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "체육시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "병원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "의원 수",
+        "value": "48"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "의원 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "의원 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "의원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "의원 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "의원 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "의원 수",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "의원 수",
+        "value": "49"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "의원 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "의원 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "의원 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "의원 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "의원 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "약국 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "약국 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "약국 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "편의 시설 수",
+        "value": "51"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "편의 시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "편의 시설 수",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "편의 시설 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "편의 시설 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "편의 시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "편의 시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "68"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 종로구 교남동",
+        "dataType": "외식 시설 수",
+        "value": "61"
+    },
+    {
+        "location": "서울특별시 종로구 청운효자동",
+        "dataType": "외식 시설 수",
+        "value": "186"
+    },
+    {
+        "location": "서울특별시 종로구 창신1동",
+        "dataType": "외식 시설 수",
+        "value": "123"
+    },
+    {
+        "location": "서울특별시 종로구 이화동",
+        "dataType": "외식 시설 수",
+        "value": "211"
+    },
+    {
+        "location": "서울특별시 종로구 종로1·2·3·4가동",
+        "dataType": "외식 시설 수",
+        "value": "902"
+    },
+    {
+        "location": "서울특별시 종로구 무악동",
+        "dataType": "외식 시설 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 종로구 종로5·6가동",
+        "dataType": "외식 시설 수",
+        "value": "235"
+    },
+    {
+        "location": "서울특별시 종로구 혜화동",
+        "dataType": "외식 시설 수",
+        "value": "327"
+    },
+    {
+        "location": "서울특별시 종로구 창신2동",
+        "dataType": "외식 시설 수",
+        "value": "77"
+    },
+    {
+        "location": "서울특별시 종로구 가회동",
+        "dataType": "외식 시설 수",
+        "value": "119"
+    },
+    {
+        "location": "서울특별시 종로구 사직동",
+        "dataType": "외식 시설 수",
+        "value": "407"
+    },
+    {
+        "location": "서울특별시 종로구 창신3동",
+        "dataType": "외식 시설 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 종로구 숭인1동",
+        "dataType": "외식 시설 수",
+        "value": "37"
+    },
+    {
+        "location": "서울특별시 종로구 부암동",
+        "dataType": "외식 시설 수",
+        "value": "96"
+    },
+    {
+        "location": "서울특별시 종로구 삼청동",
+        "dataType": "외식 시설 수",
+        "value": "135"
+    },
+    {
+        "location": "서울특별시 종로구 숭인2동",
+        "dataType": "외식 시설 수",
+        "value": "133"
+    },
+    {
+        "location": "서울특별시 종로구 평창동",
+        "dataType": "외식 시설 수",
+        "value": "98"
+    }
+]

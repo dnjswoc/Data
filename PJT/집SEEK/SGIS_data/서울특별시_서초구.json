@@ -1,0 +1,1172 @@
+[
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "259"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "323"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "300"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "CCTV 분포 현황",
+        "value": "255"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "249"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "CCTV 분포 현황",
+        "value": "267"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "221"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "483"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "412"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "212"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "554"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "360"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "184"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "CCTV 분포 현황",
+        "value": "331"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "CCTV 분포 현황",
+        "value": "51"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "588"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "116"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "265"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "문화시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "문화시설 수",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "문화시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "문화시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "문화시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "체육시설 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "체육시설 수",
+        "value": "49"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "체육시설 수",
+        "value": "73"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "체육시설 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "체육시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "체육시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "체육시설 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "체육시설 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "체육시설 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "체육시설 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "체육시설 수",
+        "value": "49"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "체육시설 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "병원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "의원 수",
+        "value": "45"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "의원 수",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "의원 수",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "의원 수",
+        "value": "77"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "의원 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "의원 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "의원 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "의원 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "의원 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "의원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "의원 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "의원 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "의원 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "약국 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "약국 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "약국 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "약국 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "편의 시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "편의 시설 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "편의 시설 수",
+        "value": "58"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "편의 시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "편의 시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "편의 시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "편의 시설 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "편의 시설 수",
+        "value": "34"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "편의 시설 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "대형 마트 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "37"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "64"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "40"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 서초구 반포1동",
+        "dataType": "외식 시설 수",
+        "value": "170"
+    },
+    {
+        "location": "서울특별시 서초구 양재2동",
+        "dataType": "외식 시설 수",
+        "value": "400"
+    },
+    {
+        "location": "서울특별시 서초구 잠원동",
+        "dataType": "외식 시설 수",
+        "value": "220"
+    },
+    {
+        "location": "서울특별시 서초구 반포3동",
+        "dataType": "외식 시설 수",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 서초구 방배4동",
+        "dataType": "외식 시설 수",
+        "value": "223"
+    },
+    {
+        "location": "서울특별시 서초구 방배3동",
+        "dataType": "외식 시설 수",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 서초구 반포본동",
+        "dataType": "외식 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 서초구 서초4동",
+        "dataType": "외식 시설 수",
+        "value": "223"
+    },
+    {
+        "location": "서울특별시 서초구 서초3동",
+        "dataType": "외식 시설 수",
+        "value": "570"
+    },
+    {
+        "location": "서울특별시 서초구 양재1동",
+        "dataType": "외식 시설 수",
+        "value": "371"
+    },
+    {
+        "location": "서울특별시 서초구 방배1동",
+        "dataType": "외식 시설 수",
+        "value": "180"
+    },
+    {
+        "location": "서울특별시 서초구 서초1동",
+        "dataType": "외식 시설 수",
+        "value": "286"
+    },
+    {
+        "location": "서울특별시 서초구 방배본동",
+        "dataType": "외식 시설 수",
+        "value": "203"
+    },
+    {
+        "location": "서울특별시 서초구 반포2동",
+        "dataType": "외식 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 서초구 내곡동",
+        "dataType": "외식 시설 수",
+        "value": "67"
+    },
+    {
+        "location": "서울특별시 서초구 서초2동",
+        "dataType": "외식 시설 수",
+        "value": "285"
+    },
+    {
+        "location": "서울특별시 서초구 반포4동",
+        "dataType": "외식 시설 수",
+        "value": "226"
+    },
+    {
+        "location": "서울특별시 서초구 방배2동",
+        "dataType": "외식 시설 수",
+        "value": "217"
+    }
+]

@@ -1,0 +1,977 @@
+[
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "범죄 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "생활 안전",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "CCTV 분포 현황",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "CCTV 분포 현황",
+        "value": "73"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "CCTV 분포 현황",
+        "value": "55"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "CCTV 분포 현황",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "CCTV 분포 현황",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "CCTV 분포 현황",
+        "value": "86"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "CCTV 분포 현황",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "CCTV 분포 현황",
+        "value": "81"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "CCTV 분포 현황",
+        "value": "88"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "CCTV 분포 현황",
+        "value": "87"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "CCTV 분포 현황",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "CCTV 분포 현황",
+        "value": "44"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "CCTV 분포 현황",
+        "value": "55"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "CCTV 분포 현황",
+        "value": "90"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "CCTV 분포 현황",
+        "value": "117"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "문화시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "체육시설 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "체육시설 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "체육시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "병원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "의원 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "의원 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "의원 수",
+        "value": "86"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "의원 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "의원 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "의원 수",
+        "value": "34"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "의원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "의원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "약국 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "약국 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "편의 시설 수",
+        "value": "50"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "편의 시설 수",
+        "value": "47"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "편의 시설 수",
+        "value": "85"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "편의 시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "편의 시설 수",
+        "value": "34"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "편의 시설 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "편의 시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "대형 마트 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "대형 마트 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "50"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "38"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중구 소공동",
+        "dataType": "외식 시설 수",
+        "value": "295"
+    },
+    {
+        "location": "서울특별시 중구 동화동",
+        "dataType": "외식 시설 수",
+        "value": "80"
+    },
+    {
+        "location": "서울특별시 중구 필동",
+        "dataType": "외식 시설 수",
+        "value": "213"
+    },
+    {
+        "location": "서울특별시 중구 장충동",
+        "dataType": "외식 시설 수",
+        "value": "94"
+    },
+    {
+        "location": "서울특별시 중구 약수동",
+        "dataType": "외식 시설 수",
+        "value": "89"
+    },
+    {
+        "location": "서울특별시 중구 을지로동",
+        "dataType": "외식 시설 수",
+        "value": "296"
+    },
+    {
+        "location": "서울특별시 중구 명동",
+        "dataType": "외식 시설 수",
+        "value": "471"
+    },
+    {
+        "location": "서울특별시 중구 광희동",
+        "dataType": "외식 시설 수",
+        "value": "287"
+    },
+    {
+        "location": "서울특별시 중구 다산동",
+        "dataType": "외식 시설 수",
+        "value": "136"
+    },
+    {
+        "location": "서울특별시 중구 신당동",
+        "dataType": "외식 시설 수",
+        "value": "197"
+    },
+    {
+        "location": "서울특별시 중구 회현동",
+        "dataType": "외식 시설 수",
+        "value": "277"
+    },
+    {
+        "location": "서울특별시 중구 신당5동",
+        "dataType": "외식 시설 수",
+        "value": "139"
+    },
+    {
+        "location": "서울특별시 중구 청구동",
+        "dataType": "외식 시설 수",
+        "value": "65"
+    },
+    {
+        "location": "서울특별시 중구 중림동",
+        "dataType": "외식 시설 수",
+        "value": "129"
+    },
+    {
+        "location": "서울특별시 중구 황학동",
+        "dataType": "외식 시설 수",
+        "value": "137"
+    }
+]

@@ -1,0 +1,1237 @@
+[
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "92"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "87"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "84"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "63"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "63"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "44"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "CCTV 분포 현황",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "85"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "74"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "CCTV 분포 현황",
+        "value": "127"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "128"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "79"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "체육시설 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "체육시설 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "체육시설 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "체육시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "체육시설 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "체육시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "체육시설 수",
+        "value": "48"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "병원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "의원 수",
+        "value": "44"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "의원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "의원 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "의원 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "의원 수",
+        "value": "38"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "의원 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "의원 수",
+        "value": "47"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "의원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "의원 수",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "의원 수",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "의원 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "의원 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "약국 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "약국 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "약국 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "편의 시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "편의 시설 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "편의 시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "편의 시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "38"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "41"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "53"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강동구 강일동",
+        "dataType": "외식 시설 수",
+        "value": "57"
+    },
+    {
+        "location": "서울특별시 강동구 암사3동",
+        "dataType": "외식 시설 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 강동구 명일1동",
+        "dataType": "외식 시설 수",
+        "value": "227"
+    },
+    {
+        "location": "서울특별시 강동구 천호1동",
+        "dataType": "외식 시설 수",
+        "value": "180"
+    },
+    {
+        "location": "서울특별시 강동구 고덕1동",
+        "dataType": "외식 시설 수",
+        "value": "68"
+    },
+    {
+        "location": "서울특별시 강동구 암사1동",
+        "dataType": "외식 시설 수",
+        "value": "233"
+    },
+    {
+        "location": "서울특별시 강동구 길동",
+        "dataType": "외식 시설 수",
+        "value": "477"
+    },
+    {
+        "location": "서울특별시 강동구 성내1동",
+        "dataType": "외식 시설 수",
+        "value": "229"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌2동",
+        "dataType": "외식 시설 수",
+        "value": "183"
+    },
+    {
+        "location": "서울특별시 강동구 암사2동",
+        "dataType": "외식 시설 수",
+        "value": "98"
+    },
+    {
+        "location": "서울특별시 강동구 명일2동",
+        "dataType": "외식 시설 수",
+        "value": "115"
+    },
+    {
+        "location": "서울특별시 강동구 상일1동",
+        "dataType": "외식 시설 수",
+        "value": "133"
+    },
+    {
+        "location": "서울특별시 강동구 천호2동",
+        "dataType": "외식 시설 수",
+        "value": "365"
+    },
+    {
+        "location": "서울특별시 강동구 둔촌1동",
+        "dataType": "외식 시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강동구 천호3동",
+        "dataType": "외식 시설 수",
+        "value": "216"
+    },
+    {
+        "location": "서울특별시 강동구 상일2동",
+        "dataType": "외식 시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 강동구 고덕2동",
+        "dataType": "외식 시설 수",
+        "value": "111"
+    },
+    {
+        "location": "서울특별시 강동구 성내2동",
+        "dataType": "외식 시설 수",
+        "value": "258"
+    },
+    {
+        "location": "서울특별시 강동구 성내3동",
+        "dataType": "외식 시설 수",
+        "value": "328"
+    }
+]

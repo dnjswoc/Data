@@ -1,0 +1,912 @@
+[
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "78"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "131"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "CCTV 분포 현황",
+        "value": "49"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "CCTV 분포 현황",
+        "value": "180"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "CCTV 분포 현황",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "CCTV 분포 현황",
+        "value": "70"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "65"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "CCTV 분포 현황",
+        "value": "119"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "79"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "문화시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "문화시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "체육시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "체육시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "체육시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "체육시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "의원 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "의원 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "의원 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "의원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "의원 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "의원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "의원 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "의원 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "약국 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "편의 시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "편의 시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "편의 시설 수",
+        "value": "38"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "편의 시설 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "67"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제1동",
+        "dataType": "외식 시설 수",
+        "value": "137"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌2동",
+        "dataType": "외식 시설 수",
+        "value": "197"
+    },
+    {
+        "location": "서울특별시 서대문구 연희동",
+        "dataType": "외식 시설 수",
+        "value": "354"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌2동",
+        "dataType": "외식 시설 수",
+        "value": "228"
+    },
+    {
+        "location": "서울특별시 서대문구 북아현동",
+        "dataType": "외식 시설 수",
+        "value": "77"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제2동",
+        "dataType": "외식 시설 수",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 서대문구 신촌동",
+        "dataType": "외식 시설 수",
+        "value": "606"
+    },
+    {
+        "location": "서울특별시 서대문구 북가좌1동",
+        "dataType": "외식 시설 수",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은1동",
+        "dataType": "외식 시설 수",
+        "value": "105"
+    },
+    {
+        "location": "서울특별시 서대문구 남가좌1동",
+        "dataType": "외식 시설 수",
+        "value": "82"
+    },
+    {
+        "location": "서울특별시 서대문구 홍제3동",
+        "dataType": "외식 시설 수",
+        "value": "157"
+    },
+    {
+        "location": "서울특별시 서대문구 천연동",
+        "dataType": "외식 시설 수",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 서대문구 충현동",
+        "dataType": "외식 시설 수",
+        "value": "259"
+    },
+    {
+        "location": "서울특별시 서대문구 홍은2동",
+        "dataType": "외식 시설 수",
+        "value": "164"
+    }
+]

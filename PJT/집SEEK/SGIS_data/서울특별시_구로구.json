@@ -1,0 +1,1042 @@
+[
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "128"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "163"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "CCTV 분포 현황",
+        "value": "135"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "87"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "116"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "154"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "CCTV 분포 현황",
+        "value": "127"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "59"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "134"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "CCTV 분포 현황",
+        "value": "85"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "CCTV 분포 현황",
+        "value": "135"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "CCTV 분포 현황",
+        "value": "95"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "266"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "문화시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "체육시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "체육시설 수",
+        "value": "34"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "체육시설 수",
+        "value": "37"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "체육시설 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "체육시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "체육시설 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "병원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "의원 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "의원 수",
+        "value": "45"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "의원 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "의원 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "의원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "의원 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "의원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "의원 수",
+        "value": "40"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "의원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "의원 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "약국 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "약국 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "약국 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "편의 시설 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "편의 시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "편의 시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "57"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 구로구 오류2동",
+        "dataType": "외식 시설 수",
+        "value": "166"
+    },
+    {
+        "location": "서울특별시 구로구 가리봉동",
+        "dataType": "외식 시설 수",
+        "value": "124"
+    },
+    {
+        "location": "서울특별시 구로구 구로5동",
+        "dataType": "외식 시설 수",
+        "value": "309"
+    },
+    {
+        "location": "서울특별시 구로구 신도림동",
+        "dataType": "외식 시설 수",
+        "value": "166"
+    },
+    {
+        "location": "서울특별시 구로구 오류1동",
+        "dataType": "외식 시설 수",
+        "value": "119"
+    },
+    {
+        "location": "서울특별시 구로구 수궁동",
+        "dataType": "외식 시설 수",
+        "value": "109"
+    },
+    {
+        "location": "서울특별시 구로구 고척1동",
+        "dataType": "외식 시설 수",
+        "value": "190"
+    },
+    {
+        "location": "서울특별시 구로구 고척2동",
+        "dataType": "외식 시설 수",
+        "value": "162"
+    },
+    {
+        "location": "서울특별시 구로구 구로2동",
+        "dataType": "외식 시설 수",
+        "value": "321"
+    },
+    {
+        "location": "서울특별시 구로구 구로4동",
+        "dataType": "외식 시설 수",
+        "value": "267"
+    },
+    {
+        "location": "서울특별시 구로구 항동",
+        "dataType": "외식 시설 수",
+        "value": "53"
+    },
+    {
+        "location": "서울특별시 구로구 구로3동",
+        "dataType": "외식 시설 수",
+        "value": "439"
+    },
+    {
+        "location": "서울특별시 구로구 개봉2동",
+        "dataType": "외식 시설 수",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 구로구 개봉3동",
+        "dataType": "외식 시설 수",
+        "value": "135"
+    },
+    {
+        "location": "서울특별시 구로구 구로1동",
+        "dataType": "외식 시설 수",
+        "value": "51"
+    },
+    {
+        "location": "서울특별시 구로구 개봉1동",
+        "dataType": "외식 시설 수",
+        "value": "212"
+    }
+]

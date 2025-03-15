@@ -1,0 +1,912 @@
+[
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "82"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "75"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "CCTV 분포 현황",
+        "value": "126"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "115"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "95"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "51"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "53"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "64"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "CCTV 분포 현황",
+        "value": "59"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "CCTV 분포 현황",
+        "value": "121"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "CCTV 분포 현황",
+        "value": "57"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "89"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "체육시설 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "체육시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "체육시설 수",
+        "value": "40"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "체육시설 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "체육시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "의원 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "의원 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "의원 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "의원 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "의원 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "의원 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "의원 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "약국 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "약국 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "약국 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "약국 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "편의 시설 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "편의 시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "편의 시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "편의 시설 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "54"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "47"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "41"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 동대문구 전농2동",
+        "dataType": "외식 시설 수",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경1동",
+        "dataType": "외식 시설 수",
+        "value": "114"
+    },
+    {
+        "location": "서울특별시 동대문구 이문1동",
+        "dataType": "외식 시설 수",
+        "value": "217"
+    },
+    {
+        "location": "서울특별시 동대문구 장안2동",
+        "dataType": "외식 시설 수",
+        "value": "335"
+    },
+    {
+        "location": "서울특별시 동대문구 휘경2동",
+        "dataType": "외식 시설 수",
+        "value": "116"
+    },
+    {
+        "location": "서울특별시 동대문구 용신동",
+        "dataType": "외식 시설 수",
+        "value": "384"
+    },
+    {
+        "location": "서울특별시 동대문구 전농1동",
+        "dataType": "외식 시설 수",
+        "value": "282"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리1동",
+        "dataType": "외식 시설 수",
+        "value": "168"
+    },
+    {
+        "location": "서울특별시 동대문구 장안1동",
+        "dataType": "외식 시설 수",
+        "value": "392"
+    },
+    {
+        "location": "서울특별시 동대문구 청량리동",
+        "dataType": "외식 시설 수",
+        "value": "182"
+    },
+    {
+        "location": "서울특별시 동대문구 회기동",
+        "dataType": "외식 시설 수",
+        "value": "251"
+    },
+    {
+        "location": "서울특별시 동대문구 답십리2동",
+        "dataType": "외식 시설 수",
+        "value": "162"
+    },
+    {
+        "location": "서울특별시 동대문구 제기동",
+        "dataType": "외식 시설 수",
+        "value": "308"
+    },
+    {
+        "location": "서울특별시 동대문구 이문2동",
+        "dataType": "외식 시설 수",
+        "value": "71"
+    }
+]

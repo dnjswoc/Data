@@ -1,0 +1,1042 @@
+[
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "100"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "CCTV 분포 현황",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "CCTV 분포 현황",
+        "value": "200"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "75"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "114"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "87"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "138"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "CCTV 분포 현황",
+        "value": "84"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "86"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "CCTV 분포 현황",
+        "value": "137"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "CCTV 분포 현황",
+        "value": "198"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "69"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "CCTV 분포 현황",
+        "value": "105"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "CCTV 분포 현황",
+        "value": "104"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "118"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "125"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "문화시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "체육시설 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "체육시설 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "체육시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "체육시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "체육시설 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "병원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "의원 수",
+        "value": "45"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "의원 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "의원 수",
+        "value": "50"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "의원 수",
+        "value": "49"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "의원 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "의원 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "의원 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "의원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "의원 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "약국 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "약국 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "약국 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "편의 시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "편의 시설 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "34"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 은평구 갈현1동",
+        "dataType": "외식 시설 수",
+        "value": "217"
+    },
+    {
+        "location": "서울특별시 은평구 응암3동",
+        "dataType": "외식 시설 수",
+        "value": "261"
+    },
+    {
+        "location": "서울특별시 은평구 대조동",
+        "dataType": "외식 시설 수",
+        "value": "345"
+    },
+    {
+        "location": "서울특별시 은평구 역촌동",
+        "dataType": "외식 시설 수",
+        "value": "389"
+    },
+    {
+        "location": "서울특별시 은평구 신사1동",
+        "dataType": "외식 시설 수",
+        "value": "147"
+    },
+    {
+        "location": "서울특별시 은평구 녹번동",
+        "dataType": "외식 시설 수",
+        "value": "227"
+    },
+    {
+        "location": "서울특별시 은평구 불광1동",
+        "dataType": "외식 시설 수",
+        "value": "203"
+    },
+    {
+        "location": "서울특별시 은평구 구산동",
+        "dataType": "외식 시설 수",
+        "value": "143"
+    },
+    {
+        "location": "서울특별시 은평구 진관동",
+        "dataType": "외식 시설 수",
+        "value": "289"
+    },
+    {
+        "location": "서울특별시 은평구 응암1동",
+        "dataType": "외식 시설 수",
+        "value": "231"
+    },
+    {
+        "location": "서울특별시 은평구 수색동",
+        "dataType": "외식 시설 수",
+        "value": "47"
+    },
+    {
+        "location": "서울특별시 은평구 갈현2동",
+        "dataType": "외식 시설 수",
+        "value": "250"
+    },
+    {
+        "location": "서울특별시 은평구 응암2동",
+        "dataType": "외식 시설 수",
+        "value": "109"
+    },
+    {
+        "location": "서울특별시 은평구 불광2동",
+        "dataType": "외식 시설 수",
+        "value": "135"
+    },
+    {
+        "location": "서울특별시 은평구 증산동",
+        "dataType": "외식 시설 수",
+        "value": "104"
+    },
+    {
+        "location": "서울특별시 은평구 신사2동",
+        "dataType": "외식 시설 수",
+        "value": "69"
+    }
+]

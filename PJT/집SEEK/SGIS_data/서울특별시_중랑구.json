@@ -1,0 +1,1042 @@
+[
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "CCTV 분포 현황",
+        "value": "62"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "CCTV 분포 현황",
+        "value": "115"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "111"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "88"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "73"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "CCTV 분포 현황",
+        "value": "131"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "60"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "81"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "74"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "CCTV 분포 현황",
+        "value": "80"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "79"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "CCTV 분포 현황",
+        "value": "137"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "체육시설 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "체육시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "체육시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "체육시설 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "체육시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "의원 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "의원 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "의원 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "의원 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "의원 수",
+        "value": "44"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "의원 수",
+        "value": "48"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "약국 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "편의 시설 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉2동",
+        "dataType": "외식 시설 수",
+        "value": "329"
+    },
+    {
+        "location": "서울특별시 중랑구 면목3·8동",
+        "dataType": "외식 시설 수",
+        "value": "293"
+    },
+    {
+        "location": "서울특별시 중랑구 묵1동",
+        "dataType": "외식 시설 수",
+        "value": "168"
+    },
+    {
+        "location": "서울특별시 중랑구 신내2동",
+        "dataType": "외식 시설 수",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 중랑구 중화2동",
+        "dataType": "외식 시설 수",
+        "value": "275"
+    },
+    {
+        "location": "서울특별시 중랑구 묵2동",
+        "dataType": "외식 시설 수",
+        "value": "172"
+    },
+    {
+        "location": "서울특별시 중랑구 상봉1동",
+        "dataType": "외식 시설 수",
+        "value": "120"
+    },
+    {
+        "location": "서울특별시 중랑구 중화1동",
+        "dataType": "외식 시설 수",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 중랑구 면목5동",
+        "dataType": "외식 시설 수",
+        "value": "73"
+    },
+    {
+        "location": "서울특별시 중랑구 면목본동",
+        "dataType": "외식 시설 수",
+        "value": "282"
+    },
+    {
+        "location": "서울특별시 중랑구 면목7동",
+        "dataType": "외식 시설 수",
+        "value": "164"
+    },
+    {
+        "location": "서울특별시 중랑구 망우3동",
+        "dataType": "외식 시설 수",
+        "value": "95"
+    },
+    {
+        "location": "서울특별시 중랑구 면목2동",
+        "dataType": "외식 시설 수",
+        "value": "205"
+    },
+    {
+        "location": "서울특별시 중랑구 망우본동",
+        "dataType": "외식 시설 수",
+        "value": "360"
+    },
+    {
+        "location": "서울특별시 중랑구 신내1동",
+        "dataType": "외식 시설 수",
+        "value": "197"
+    },
+    {
+        "location": "서울특별시 중랑구 면목4동",
+        "dataType": "외식 시설 수",
+        "value": "97"
+    }
+]
