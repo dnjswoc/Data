@@ -3,7 +3,7 @@ import os
 from sklearn.preprocessing import MinMaxScaler
 
 # 인구까지 업데이트 된 서울특별시 행정동별 데이터 불러오기
-data_file = "서울특별시_행정동별_데이터_업데이트.csv"
+data_file = "서울특별시_행정동별_데이터_업데이트_면적.csv"
 df_data = pd.read_csv(data_file, encoding="utf-8-sig")
 
 print(df_data.head())
@@ -19,12 +19,21 @@ def safe_score():
     df_data["범죄 안전 점수"] = 120 - (df_data["범죄 안전"] * 20)
     df_data["생활 안전 점수"] = 120 - (df_data["생활 안전"] * 20)
 
-    # CCTV 분포 현황은 인구 수로 나누어서 20~100 최대,최소 정규화
-    df_data["CCTV 분포 현황"] = df_data["CCTV 분포 현황"] / df_data["인구"]
-    df_data["CCTV 점수"] = scaler.fit_transform(df_data[["CCTV 분포 현황"]])
+    # CCTV 분포 현황을 인구 수로 나누어서 20~100 최대,최소 정규화
+    df_data["1인당 CCTV 분포 현황"] = df_data["CCTV 분포 현황"] / df_data["인구"]
+    df_data["1인당 CCTV 점수"] = scaler.fit_transform(df_data[["1인당 CCTV 분포 현황"]])
 
-    # 세 점수를 합쳐서 3으로 나눈 값을 안전 점수로 설정
-    df_data["안전"] = (df_data["범죄 안전 점수"] + df_data["생활 안전 점수"] + df_data["CCTV 점수"]) / 3
+    # 세 점수를 합쳐서 3으로 나눈 값을 1인당 안전 점수로 설정
+    df_data["1인당 안전"] = (df_data["범죄 안전 점수"] + df_data["생활 안전 점수"] + df_data["1인당 CCTV 점수"]) / 3
+
+    # CCTV 분포 현황을 면적으로 나누어서 20~100 최대,최소 정규화
+    df_data["면적당 CCTV 분포 현황"] = df_data["CCTV 분포 현황"] / df_data["면적(km²)"]
+    df_data["면적당 CCTV 점수"] = scaler.fit_transform(df_data[["면적당 CCTV 분포 현황"]])
+
+    # 세 점수를 합쳐서 3으로 나눈 값을 면적당 안전 점수로 설정
+    df_data["면적당 안전"] = (df_data["범죄 안전 점수"] + df_data["생활 안전 점수"] + df_data["면적당 CCTV 점수"]) / 3
+
+    df_data["안전"] = (df_data["1인당 안전"] + df_data["면적당 안전"]) / 2
 
     return df_data
 
