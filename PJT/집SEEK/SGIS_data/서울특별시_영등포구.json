@@ -1,0 +1,1172 @@
+[
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "CCTV 분포 현황",
+        "value": "282"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "CCTV 분포 현황",
+        "value": "303"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "281"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "229"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "CCTV 분포 현황",
+        "value": "148"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "266"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "CCTV 분포 현황",
+        "value": "381"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "207"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "155"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "CCTV 분포 현황",
+        "value": "425"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "CCTV 분포 현황",
+        "value": "210"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "255"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "255"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "CCTV 분포 현황",
+        "value": "184"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "308"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "CCTV 분포 현황",
+        "value": "247"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "340"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "226"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "문화시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "문화시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "체육시설 수",
+        "value": "63"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "체육시설 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "체육시설 수",
+        "value": "40"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "체육시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "체육시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "체육시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "체육시설 수",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "체육시설 수",
+        "value": "40"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "체육시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "병원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "의원 수",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "의원 수",
+        "value": "48"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "의원 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "의원 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "의원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "의원 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "의원 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "의원 수",
+        "value": "63"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "의원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "의원 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "약국 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "약국 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "약국 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "약국 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "약국 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "편의 시설 수",
+        "value": "119"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "편의 시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "편의 시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "편의 시설 수",
+        "value": "52"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "편의 시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "백화점 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "대형 마트 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "대형 마트 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "69"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "40"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "63"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 영등포구 신길7동",
+        "dataType": "외식 시설 수",
+        "value": "78"
+    },
+    {
+        "location": "서울특별시 영등포구 신길4동",
+        "dataType": "외식 시설 수",
+        "value": "65"
+    },
+    {
+        "location": "서울특별시 영등포구 양평1동",
+        "dataType": "외식 시설 수",
+        "value": "186"
+    },
+    {
+        "location": "서울특별시 영등포구 당산1동",
+        "dataType": "외식 시설 수",
+        "value": "324"
+    },
+    {
+        "location": "서울특별시 영등포구 신길1동",
+        "dataType": "외식 시설 수",
+        "value": "139"
+    },
+    {
+        "location": "서울특별시 영등포구 양평2동",
+        "dataType": "외식 시설 수",
+        "value": "214"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포본동",
+        "dataType": "외식 시설 수",
+        "value": "162"
+    },
+    {
+        "location": "서울특별시 영등포구 대림2동",
+        "dataType": "외식 시설 수",
+        "value": "207"
+    },
+    {
+        "location": "서울특별시 영등포구 여의동",
+        "dataType": "외식 시설 수",
+        "value": "657"
+    },
+    {
+        "location": "서울특별시 영등포구 도림동",
+        "dataType": "외식 시설 수",
+        "value": "99"
+    },
+    {
+        "location": "서울특별시 영등포구 영등포동",
+        "dataType": "외식 시설 수",
+        "value": "481"
+    },
+    {
+        "location": "서울특별시 영등포구 대림3동",
+        "dataType": "외식 시설 수",
+        "value": "208"
+    },
+    {
+        "location": "서울특별시 영등포구 문래동",
+        "dataType": "외식 시설 수",
+        "value": "345"
+    },
+    {
+        "location": "서울특별시 영등포구 신길6동",
+        "dataType": "외식 시설 수",
+        "value": "156"
+    },
+    {
+        "location": "서울특별시 영등포구 당산2동",
+        "dataType": "외식 시설 수",
+        "value": "263"
+    },
+    {
+        "location": "서울특별시 영등포구 신길5동",
+        "dataType": "외식 시설 수",
+        "value": "51"
+    },
+    {
+        "location": "서울특별시 영등포구 대림1동",
+        "dataType": "외식 시설 수",
+        "value": "138"
+    },
+    {
+        "location": "서울특별시 영등포구 신길3동",
+        "dataType": "외식 시설 수",
+        "value": "108"
+    }
+]

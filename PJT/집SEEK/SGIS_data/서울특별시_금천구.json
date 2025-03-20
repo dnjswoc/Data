@@ -1,0 +1,652 @@
+[
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "57"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "CCTV 분포 현황",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "100"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "88"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "CCTV 분포 현황",
+        "value": "120"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "79"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "127"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "125"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "문화시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "문화시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "체육시설 수",
+        "value": "52"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "체육시설 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "체육시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "체육시설 수",
+        "value": "41"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "병원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "의원 수",
+        "value": "62"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "의원 수",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "의원 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "의원 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "의원 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "약국 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "약국 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "약국 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "약국 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "편의 시설 수",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "편의 시설 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "편의 시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "편의 시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "대형 마트 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "109"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "47"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "38"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 금천구 독산4동",
+        "dataType": "외식 시설 수",
+        "value": "144"
+    },
+    {
+        "location": "서울특별시 금천구 독산2동",
+        "dataType": "외식 시설 수",
+        "value": "152"
+    },
+    {
+        "location": "서울특별시 금천구 독산3동",
+        "dataType": "외식 시설 수",
+        "value": "234"
+    },
+    {
+        "location": "서울특별시 금천구 시흥2동",
+        "dataType": "외식 시설 수",
+        "value": "34"
+    },
+    {
+        "location": "서울특별시 금천구 시흥3동",
+        "dataType": "외식 시설 수",
+        "value": "71"
+    },
+    {
+        "location": "서울특별시 금천구 가산동",
+        "dataType": "외식 시설 수",
+        "value": "647"
+    },
+    {
+        "location": "서울특별시 금천구 독산1동",
+        "dataType": "외식 시설 수",
+        "value": "285"
+    },
+    {
+        "location": "서울특별시 금천구 시흥5동",
+        "dataType": "외식 시설 수",
+        "value": "140"
+    },
+    {
+        "location": "서울특별시 금천구 시흥4동",
+        "dataType": "외식 시설 수",
+        "value": "76"
+    },
+    {
+        "location": "서울특별시 금천구 시흥1동",
+        "dataType": "외식 시설 수",
+        "value": "362"
+    }
+]

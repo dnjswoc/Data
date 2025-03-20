@@ -1,0 +1,847 @@
+[
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "범죄 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "생활 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "261"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "253"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "CCTV 분포 현황",
+        "value": "379"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "82"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "CCTV 분포 현황",
+        "value": "248"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "CCTV 분포 현황",
+        "value": "437"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "CCTV 분포 현황",
+        "value": "394"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "CCTV 분포 현황",
+        "value": "368"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "219"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "322"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "205"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "CCTV 분포 현황",
+        "value": "75"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "CCTV 분포 현황",
+        "value": "329"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "체육시설 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "체육시설 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "체육시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "체육시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "병원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "의원 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "의원 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "의원 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "의원 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "의원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "의원 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "의원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "약국 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "편의 시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 강북구 번2동",
+        "dataType": "외식 시설 수",
+        "value": "52"
+    },
+    {
+        "location": "서울특별시 강북구 인수동",
+        "dataType": "외식 시설 수",
+        "value": "189"
+    },
+    {
+        "location": "서울특별시 강북구 삼양동",
+        "dataType": "외식 시설 수",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 강북구 수유3동",
+        "dataType": "외식 시설 수",
+        "value": "423"
+    },
+    {
+        "location": "서울특별시 강북구 수유2동",
+        "dataType": "외식 시설 수",
+        "value": "156"
+    },
+    {
+        "location": "서울특별시 강북구 번1동",
+        "dataType": "외식 시설 수",
+        "value": "224"
+    },
+    {
+        "location": "서울특별시 강북구 우이동",
+        "dataType": "외식 시설 수",
+        "value": "230"
+    },
+    {
+        "location": "서울특별시 강북구 미아동",
+        "dataType": "외식 시설 수",
+        "value": "227"
+    },
+    {
+        "location": "서울특별시 강북구 송천동",
+        "dataType": "외식 시설 수",
+        "value": "256"
+    },
+    {
+        "location": "서울특별시 강북구 번3동",
+        "dataType": "외식 시설 수",
+        "value": "69"
+    },
+    {
+        "location": "서울특별시 강북구 송중동",
+        "dataType": "외식 시설 수",
+        "value": "273"
+    },
+    {
+        "location": "서울특별시 강북구 수유1동",
+        "dataType": "외식 시설 수",
+        "value": "168"
+    },
+    {
+        "location": "서울특별시 강북구 삼각산동",
+        "dataType": "외식 시설 수",
+        "value": "92"
+    }
+]

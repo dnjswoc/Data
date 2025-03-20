@@ -1,0 +1,1172 @@
+[
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "범죄 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "생활 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "117"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "CCTV 분포 현황",
+        "value": "147"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "180"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "129"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "216"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "388"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "192"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "CCTV 분포 현황",
+        "value": "153"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "CCTV 분포 현황",
+        "value": "94"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "CCTV 분포 현황",
+        "value": "203"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "311"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "227"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "124"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "132"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "CCTV 분포 현황",
+        "value": "87"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "192"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "CCTV 분포 현황",
+        "value": "165"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "364"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "체육시설 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "체육시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "체육시설 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "체육시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "체육시설 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "체육시설 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "병원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "의원 수",
+        "value": "64"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "의원 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "의원 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "의원 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "의원 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "의원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "의원 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "의원 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "의원 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "의원 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "의원 수",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "약국 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "편의 시설 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "편의 시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "백화점 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "대형 마트 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "35"
+    },
+    {
+        "location": "서울특별시 양천구 목5동",
+        "dataType": "외식 시설 수",
+        "value": "131"
+    },
+    {
+        "location": "서울특별시 양천구 신월3동",
+        "dataType": "외식 시설 수",
+        "value": "73"
+    },
+    {
+        "location": "서울특별시 양천구 목1동",
+        "dataType": "외식 시설 수",
+        "value": "291"
+    },
+    {
+        "location": "서울특별시 양천구 신월2동",
+        "dataType": "외식 시설 수",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 양천구 신정3동",
+        "dataType": "외식 시설 수",
+        "value": "123"
+    },
+    {
+        "location": "서울특별시 양천구 신정1동",
+        "dataType": "외식 시설 수",
+        "value": "155"
+    },
+    {
+        "location": "서울특별시 양천구 신월6동",
+        "dataType": "외식 시설 수",
+        "value": "81"
+    },
+    {
+        "location": "서울특별시 양천구 목4동",
+        "dataType": "외식 시설 수",
+        "value": "201"
+    },
+    {
+        "location": "서울특별시 양천구 신월7동",
+        "dataType": "외식 시설 수",
+        "value": "113"
+    },
+    {
+        "location": "서울특별시 양천구 신월1동",
+        "dataType": "외식 시설 수",
+        "value": "197"
+    },
+    {
+        "location": "서울특별시 양천구 신정4동",
+        "dataType": "외식 시설 수",
+        "value": "333"
+    },
+    {
+        "location": "서울특별시 양천구 신정6동",
+        "dataType": "외식 시설 수",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 양천구 신정2동",
+        "dataType": "외식 시설 수",
+        "value": "140"
+    },
+    {
+        "location": "서울특별시 양천구 신정7동",
+        "dataType": "외식 시설 수",
+        "value": "93"
+    },
+    {
+        "location": "서울특별시 양천구 목3동",
+        "dataType": "외식 시설 수",
+        "value": "164"
+    },
+    {
+        "location": "서울특별시 양천구 목2동",
+        "dataType": "외식 시설 수",
+        "value": "157"
+    },
+    {
+        "location": "서울특별시 양천구 신월5동",
+        "dataType": "외식 시설 수",
+        "value": "117"
+    },
+    {
+        "location": "서울특별시 양천구 신월4동",
+        "dataType": "외식 시설 수",
+        "value": "125"
+    }
+]

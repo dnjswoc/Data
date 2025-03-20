@@ -1,0 +1,1302 @@
+[
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "범죄 안전",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "88"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "97"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "43"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "60"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "CCTV 분포 현황",
+        "value": "140"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "94"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "CCTV 분포 현황",
+        "value": "113"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "147"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "CCTV 분포 현황",
+        "value": "96"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "CCTV 분포 현황",
+        "value": "155"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "CCTV 분포 현황",
+        "value": "84"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "CCTV 분포 현황",
+        "value": "131"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "CCTV 분포 현황",
+        "value": "92"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "120"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "47"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "90"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "문화시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "문화시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "문화시설 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "문화시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "문화시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "문화시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "체육시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "체육시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "체육시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "체육시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "체육시설 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "병원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "의원 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "의원 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "의원 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "의원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "의원 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "의원 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "의원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "의원 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "의원 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "의원 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "의원 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "편의 시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "편의 시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "대형 마트 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 성북구 삼선동",
+        "dataType": "외식 시설 수",
+        "value": "263"
+    },
+    {
+        "location": "서울특별시 성북구 종암동",
+        "dataType": "외식 시설 수",
+        "value": "234"
+    },
+    {
+        "location": "서울특별시 성북구 석관동",
+        "dataType": "외식 시설 수",
+        "value": "272"
+    },
+    {
+        "location": "서울특별시 성북구 성북동",
+        "dataType": "외식 시설 수",
+        "value": "167"
+    },
+    {
+        "location": "서울특별시 성북구 장위2동",
+        "dataType": "외식 시설 수",
+        "value": "120"
+    },
+    {
+        "location": "서울특별시 성북구 길음1동",
+        "dataType": "외식 시설 수",
+        "value": "96"
+    },
+    {
+        "location": "서울특별시 성북구 월곡1동",
+        "dataType": "외식 시설 수",
+        "value": "133"
+    },
+    {
+        "location": "서울특별시 성북구 정릉4동",
+        "dataType": "외식 시설 수",
+        "value": "128"
+    },
+    {
+        "location": "서울특별시 성북구 월곡2동",
+        "dataType": "외식 시설 수",
+        "value": "223"
+    },
+    {
+        "location": "서울특별시 성북구 길음2동",
+        "dataType": "외식 시설 수",
+        "value": "119"
+    },
+    {
+        "location": "서울특별시 성북구 정릉2동",
+        "dataType": "외식 시설 수",
+        "value": "112"
+    },
+    {
+        "location": "서울특별시 성북구 장위1동",
+        "dataType": "외식 시설 수",
+        "value": "117"
+    },
+    {
+        "location": "서울특별시 성북구 정릉1동",
+        "dataType": "외식 시설 수",
+        "value": "90"
+    },
+    {
+        "location": "서울특별시 성북구 돈암2동",
+        "dataType": "외식 시설 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 성북구 동선동",
+        "dataType": "외식 시설 수",
+        "value": "344"
+    },
+    {
+        "location": "서울특별시 성북구 안암동",
+        "dataType": "외식 시설 수",
+        "value": "277"
+    },
+    {
+        "location": "서울특별시 성북구 장위3동",
+        "dataType": "외식 시설 수",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 성북구 돈암1동",
+        "dataType": "외식 시설 수",
+        "value": "37"
+    },
+    {
+        "location": "서울특별시 성북구 보문동",
+        "dataType": "외식 시설 수",
+        "value": "122"
+    },
+    {
+        "location": "서울특별시 성북구 정릉3동",
+        "dataType": "외식 시설 수",
+        "value": "110"
+    }
+]

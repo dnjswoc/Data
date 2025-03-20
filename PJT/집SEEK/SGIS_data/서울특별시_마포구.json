@@ -1,0 +1,1042 @@
+[
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "CCTV 분포 현황",
+        "value": "72"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "73"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "CCTV 분포 현황",
+        "value": "90"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "CCTV 분포 현황",
+        "value": "85"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "CCTV 분포 현황",
+        "value": "163"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "CCTV 분포 현황",
+        "value": "60"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "58"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "CCTV 분포 현황",
+        "value": "66"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "CCTV 분포 현황",
+        "value": "59"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "116"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "CCTV 분포 현황",
+        "value": "81"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "CCTV 분포 현황",
+        "value": "113"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "CCTV 분포 현황",
+        "value": "82"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "CCTV 분포 현황",
+        "value": "66"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "CCTV 분포 현황",
+        "value": "89"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "문화시설 수",
+        "value": "56"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "문화시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "문화시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "문화시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "문화시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "문화시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "체육시설 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "체육시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "체육시설 수",
+        "value": "67"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "체육시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "체육시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "체육시설 수",
+        "value": "34"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "체육시설 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "의원 수",
+        "value": "45"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "의원 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "의원 수",
+        "value": "91"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "의원 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "의원 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "의원 수",
+        "value": "39"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "의원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "의원 수",
+        "value": "40"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "의원 수",
+        "value": "46"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "약국 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "약국 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "약국 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "편의 시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "편의 시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "편의 시설 수",
+        "value": "45"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "편의 시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "편의 시설 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "백화점 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "대형 마트 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "98"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 마포구 성산1동",
+        "dataType": "외식 시설 수",
+        "value": "180"
+    },
+    {
+        "location": "서울특별시 마포구 망원1동",
+        "dataType": "외식 시설 수",
+        "value": "339"
+    },
+    {
+        "location": "서울특별시 마포구 용강동",
+        "dataType": "외식 시설 수",
+        "value": "206"
+    },
+    {
+        "location": "서울특별시 마포구 염리동",
+        "dataType": "외식 시설 수",
+        "value": "138"
+    },
+    {
+        "location": "서울특별시 마포구 도화동",
+        "dataType": "외식 시설 수",
+        "value": "237"
+    },
+    {
+        "location": "서울특별시 마포구 성산2동",
+        "dataType": "외식 시설 수",
+        "value": "196"
+    },
+    {
+        "location": "서울특별시 마포구 서교동",
+        "dataType": "외식 시설 수",
+        "value": "1283"
+    },
+    {
+        "location": "서울특별시 마포구 합정동",
+        "dataType": "외식 시설 수",
+        "value": "351"
+    },
+    {
+        "location": "서울특별시 마포구 서강동",
+        "dataType": "외식 시설 수",
+        "value": "293"
+    },
+    {
+        "location": "서울특별시 마포구 신수동",
+        "dataType": "외식 시설 수",
+        "value": "150"
+    },
+    {
+        "location": "서울특별시 마포구 연남동",
+        "dataType": "외식 시설 수",
+        "value": "428"
+    },
+    {
+        "location": "서울특별시 마포구 망원2동",
+        "dataType": "외식 시설 수",
+        "value": "185"
+    },
+    {
+        "location": "서울특별시 마포구 상암동",
+        "dataType": "외식 시설 수",
+        "value": "334"
+    },
+    {
+        "location": "서울특별시 마포구 아현동",
+        "dataType": "외식 시설 수",
+        "value": "142"
+    },
+    {
+        "location": "서울특별시 마포구 대흥동",
+        "dataType": "외식 시설 수",
+        "value": "223"
+    },
+    {
+        "location": "서울특별시 마포구 공덕동",
+        "dataType": "외식 시설 수",
+        "value": "272"
+    }
+]

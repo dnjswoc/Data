@@ -1,0 +1,1042 @@
+[
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "생활 안전",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "CCTV 분포 현황",
+        "value": "216"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "CCTV 분포 현황",
+        "value": "75"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "CCTV 분포 현황",
+        "value": "80"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "CCTV 분포 현황",
+        "value": "166"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "CCTV 분포 현황",
+        "value": "123"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "CCTV 분포 현황",
+        "value": "106"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "93"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "CCTV 분포 현황",
+        "value": "239"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "119"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "CCTV 분포 현황",
+        "value": "134"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "48"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "CCTV 분포 현황",
+        "value": "92"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "102"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "CCTV 분포 현황",
+        "value": "164"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "92"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "문화시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "문화시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "문화시설 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "체육시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "체육시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "체육시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "체육시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "체육시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "체육시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "체육시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "체육시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "체육시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "체육시설 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "체육시설 수",
+        "value": "36"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "병원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "의원 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "의원 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "의원 수",
+        "value": "29"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "의원 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "의원 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "의원 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "의원 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "의원 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "의원 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "의원 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "의원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "의원 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "의원 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "약국 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "약국 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "약국 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "약국 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "약국 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "약국 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "약국 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "편의 시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "편의 시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "편의 시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "편의 시설 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "편의 시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "편의 시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "편의 시설 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "편의 시설 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "대형 마트 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 용산구 이촌1동",
+        "dataType": "외식 시설 수",
+        "value": "87"
+    },
+    {
+        "location": "서울특별시 용산구 한강로동",
+        "dataType": "외식 시설 수",
+        "value": "477"
+    },
+    {
+        "location": "서울특별시 용산구 용산2가동",
+        "dataType": "외식 시설 수",
+        "value": "132"
+    },
+    {
+        "location": "서울특별시 용산구 효창동",
+        "dataType": "외식 시설 수",
+        "value": "42"
+    },
+    {
+        "location": "서울특별시 용산구 후암동",
+        "dataType": "외식 시설 수",
+        "value": "141"
+    },
+    {
+        "location": "서울특별시 용산구 용문동",
+        "dataType": "외식 시설 수",
+        "value": "89"
+    },
+    {
+        "location": "서울특별시 용산구 이태원1동",
+        "dataType": "외식 시설 수",
+        "value": "238"
+    },
+    {
+        "location": "서울특별시 용산구 원효로2동",
+        "dataType": "외식 시설 수",
+        "value": "70"
+    },
+    {
+        "location": "서울특별시 용산구 보광동",
+        "dataType": "외식 시설 수",
+        "value": "130"
+    },
+    {
+        "location": "서울특별시 용산구 원효로1동",
+        "dataType": "외식 시설 수",
+        "value": "193"
+    },
+    {
+        "location": "서울특별시 용산구 이태원2동",
+        "dataType": "외식 시설 수",
+        "value": "136"
+    },
+    {
+        "location": "서울특별시 용산구 남영동",
+        "dataType": "외식 시설 수",
+        "value": "235"
+    },
+    {
+        "location": "서울특별시 용산구 한남동",
+        "dataType": "외식 시설 수",
+        "value": "354"
+    },
+    {
+        "location": "서울특별시 용산구 청파동",
+        "dataType": "외식 시설 수",
+        "value": "247"
+    },
+    {
+        "location": "서울특별시 용산구 이촌2동",
+        "dataType": "외식 시설 수",
+        "value": "30"
+    },
+    {
+        "location": "서울특별시 용산구 서빙고동",
+        "dataType": "외식 시설 수",
+        "value": "44"
+    }
+]

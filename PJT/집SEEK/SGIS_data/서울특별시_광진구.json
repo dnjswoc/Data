@@ -1,0 +1,977 @@
+[
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "범죄 안전",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "생활 안전",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "79"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "83"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "63"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "77"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "CCTV 분포 현황",
+        "value": "57"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "CCTV 분포 현황",
+        "value": "58"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "52"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "CCTV 분포 현황",
+        "value": "104"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "111"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "82"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "CCTV 분포 현황",
+        "value": "86"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "CCTV 분포 현황",
+        "value": "85"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "CCTV 분포 현황",
+        "value": "63"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "CCTV 분포 현황",
+        "value": "105"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "CCTV 분포 현황",
+        "value": "75"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "문화시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "문화시설 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "문화시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "문화시설 수",
+        "value": "3"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "문화시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "문화시설 수",
+        "value": "4"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "문화시설 수",
+        "value": "2"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "체육시설 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "체육시설 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "체육시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "체육시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "체육시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "체육시설 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "체육시설 수",
+        "value": "12"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "체육시설 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "체육시설 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "체육시설 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "체육시설 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "체육시설 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "체육시설 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "병원 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "의원 수",
+        "value": "32"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "의원 수",
+        "value": "19"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "의원 수",
+        "value": "18"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "의원 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "의원 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "의원 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "의원 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "의원 수",
+        "value": "33"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "의원 수",
+        "value": "44"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "의원 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "의원 수",
+        "value": "24"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "의원 수",
+        "value": "31"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "약국 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "약국 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "약국 수",
+        "value": "5"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "약국 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "약국 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "약국 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "약국 수",
+        "value": "16"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "약국 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "약국 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "약국 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "편의 시설 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "편의 시설 수",
+        "value": "9"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "편의 시설 수",
+        "value": "10"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "편의 시설 수",
+        "value": "6"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "편의 시설 수",
+        "value": "7"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "편의 시설 수",
+        "value": "8"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "편의 시설 수",
+        "value": "14"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "편의 시설 수",
+        "value": "13"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "편의 시설 수",
+        "value": "11"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "편의 시설 수",
+        "value": "15"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "백화점 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "대형 마트 수",
+        "value": "1"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "대형 마트 수",
+        "value": "0"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "51"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "22"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "17"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "28"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "20"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "27"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "25"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "21"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "23"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "슈퍼마켓 & 편의점 수",
+        "value": "26"
+    },
+    {
+        "location": "서울특별시 광진구 구의3동",
+        "dataType": "외식 시설 수",
+        "value": "227"
+    },
+    {
+        "location": "서울특별시 광진구 중곡2동",
+        "dataType": "외식 시설 수",
+        "value": "201"
+    },
+    {
+        "location": "서울특별시 광진구 구의2동",
+        "dataType": "외식 시설 수",
+        "value": "195"
+    },
+    {
+        "location": "서울특별시 광진구 능동",
+        "dataType": "외식 시설 수",
+        "value": "107"
+    },
+    {
+        "location": "서울특별시 광진구 군자동",
+        "dataType": "외식 시설 수",
+        "value": "277"
+    },
+    {
+        "location": "서울특별시 광진구 자양4동",
+        "dataType": "외식 시설 수",
+        "value": "278"
+    },
+    {
+        "location": "서울특별시 광진구 자양2동",
+        "dataType": "외식 시설 수",
+        "value": "155"
+    },
+    {
+        "location": "서울특별시 광진구 화양동",
+        "dataType": "외식 시설 수",
+        "value": "545"
+    },
+    {
+        "location": "서울특별시 광진구 중곡1동",
+        "dataType": "외식 시설 수",
+        "value": "191"
+    },
+    {
+        "location": "서울특별시 광진구 중곡4동",
+        "dataType": "외식 시설 수",
+        "value": "178"
+    },
+    {
+        "location": "서울특별시 광진구 구의1동",
+        "dataType": "외식 시설 수",
+        "value": "299"
+    },
+    {
+        "location": "서울특별시 광진구 자양3동",
+        "dataType": "외식 시설 수",
+        "value": "142"
+    },
+    {
+        "location": "서울특별시 광진구 자양1동",
+        "dataType": "외식 시설 수",
+        "value": "241"
+    },
+    {
+        "location": "서울특별시 광진구 중곡3동",
+        "dataType": "외식 시설 수",
+        "value": "167"
+    },
+    {
+        "location": "서울특별시 광진구 광장동",
+        "dataType": "외식 시설 수",
+        "value": "147"
+    }
+]
