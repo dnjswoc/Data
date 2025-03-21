@@ -3,9 +3,9 @@ import os
 from sklearn.preprocessing import MinMaxScaler
 
 # 인구까지 업데이트 된 서울특별시 행정동별 데이터 불러오기
-data_file = "서울특별시_행정동별_데이터_업데이트_면적.csv"
+data_file = "./dong_data/서울특별시_행정동별_데이터_업데이트_면적.csv"
 df_data = pd.read_csv(data_file, encoding="utf-8-sig")
-df_transport = pd.read_csv("서울특별시_대중교통_수_업데이트.csv", encoding="utf-8-sig")
+df_transport = pd.read_csv("./dong_data/서울특별시_대중교통_수_업데이트.csv", encoding="utf-8-sig")
 
 
 # print(df_data.head())
@@ -210,7 +210,7 @@ amenity_score()
 
 print(df_data.head())
 
-selected_columns = ["주소1", "주소2", "주소3", "인구", "면적(km²)", "안전", "여가", "식당", "의료", "마트", "편의 시설"]
+selected_columns = ["주소1", "주소2", "주소3", "인구", "면적(km²)", "안전", "여가", "식당", "의료", "마트", "편의 시설", "대중교통"]
 
 
 df_data[selected_columns].to_csv("서울특별시_행정동별_선호항목_최종점수.csv", index=False, encoding="utf-8-sig")
