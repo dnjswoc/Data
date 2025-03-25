@@ -1,13 +1,9 @@
 import geopandas as gpd
 
-# Shapefile 로드
-shp_path = "서울시_행정동_경계.shp"
-gdf = gpd.read_file(shp_path)
+# 한글 깨짐 방지: encoding="cp949" 또는 "euc-kr" 시도
+gdf = gpd.read_file("./LARD_ADM_SECT_SGG_서울/LARD_ADM_SECT_SGG_11_202502.shp", encoding="cp949")
 
-gdf_seoul = gdf[gdf["ADM_CD"].str.startswith("11")]  # 예시: 서울 코드가 '11'로 시작
+# GeoJSON으로 저장 (UTF-8)
+gdf.to_file("서울시_행정동_경계_UTF8.geojson", driver="GeoJSON", encoding="utf-8")
 
-# 📌 3️⃣ 서울시 행정동 데이터 GeoJSON으로 저장
-geojson_path = "서울시_행정동_경계.geojson"
-gdf_seoul.to_file(geojson_path, driver="GeoJSON")
-
-print(f"✅ 변환 완료: {geojson_path}")
+print("✅ 변환 완료: 한글이 깨지지 않는 GeoJSON 생성됨")
