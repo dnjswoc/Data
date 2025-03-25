@@ -1,14 +1,22 @@
 import pandas as pd
+import re
 
-# 1️⃣ CSV 파일 불러오기
-file_path = "./property_data/converted/cafe_updated.csv"
+# CSV 파일 불러오기
+file_path = "./seoul_data/museum_dong.csv"
 df = pd.read_csv(file_path, encoding="utf-8-sig")
 
-# 2️⃣ dong_name에서 '.'을 '·'로 변경
-df["dong_name"] = df["dong_name"].str.replace("면목제3·8동", "면목3·8동", regex=False)
+# dong_name에서 1.2.3 형태를 1·2·3 형태로 변환하는 함수
+def replace_dot_with_middle_dot(dong_name):
+    if pd.isna(dong_name):
+        return dong_name
+    # 숫자 사이에 있는 점(.)을 가운데 점(·)으로 치환
+    return re.sub(r'(?<=\d)\.(?=\d)', '·', dong_name)
 
-# 3️⃣ 수정된 CSV 파일 저장
-output_path = "./property_data/converted/cafe.csv"
-df.to_csv(output_path, index=False, encoding="utf-8-sig")
+# 적용
+df['dong_name'] = df['dong_name'].apply(replace_dot_with_middle_dot)
 
-print(f"\n🎉 dong_name에서 '.'을 '·'로 변경 완료! 저장된 파일: {output_path}")
+# 저장
+output_path = "./seoul_data/museum.csv"
+df.to_csv(output_path, index=False, encoding='utf-8-sig')
+
+print(f"\n🎉 dong_name 중 '.' → '·' 변환 완료! 저장된 파일: {output_path}")

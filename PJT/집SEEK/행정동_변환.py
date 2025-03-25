@@ -27,7 +27,7 @@ def get_admin_dong_from_coordinates(lat, lng, index, total_rows):
     return None  # 실패 시 None 반환
 
 # 1️⃣ CSV 파일 로드
-file_path = "./property_data/convenience_stores.csv"  # 실제 파일 경로로 변경
+file_path = "./seoul_data/merged_museum_data.csv"  # 실제 파일 경로로 변경
 df = pd.read_csv(file_path, encoding="utf-8-sig")
 
 # 전체 행 개수 확인
@@ -39,7 +39,7 @@ df['dong_name'] = df.apply(lambda row: get_admin_dong_from_coordinates(row['lati
 
 
 # 3️⃣ 정리된 데이터 저장
-output_path = "./property_data/converted/편의점.csv"
+output_path = "./seoul_data/museum_dong.csv"
 df.to_csv(output_path, index=False, encoding="utf-8-sig")
 
 print(f"\n🎉 행정동 정보 추가 완료! 저장된 파일: {output_path}")
